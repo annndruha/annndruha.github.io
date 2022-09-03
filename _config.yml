@@ -3,7 +3,7 @@ logo: /assets/images/photo.png
 description: CV
 
 show_links: true
-mailto: annndruha.github@gmail.com
+mailto: mailto:annndruha.github@gmail.com
 cv_pdf_link: https://phys.msu.ru/rus/students/working-plans/docs/2022_1/%D0%A0%D0%B0%D0%B1%D0%BF%D0%BB%D0%B0%D0%BD-%D1%81%D0%BF%D0%B5%D1%86-%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0-1-%D0%BA%D1%83%D1%80%D1%81_2022-2023.pdf
 
 remote_theme: annndruha/minimal-resume@v0.2.2
