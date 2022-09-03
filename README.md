@@ -1,4 +1,5 @@
 # Андрей Маракулин
+![msuai](https://user-images.githubusercontent.com/51162917/188286193-421639c5-c584-45e7-8df9-350519b1f159.jpg)
 
 
 ---
