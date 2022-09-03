@@ -2,6 +2,6 @@ title: Андрей Маракулин
 logo: /images/photo.png
 description: ыыыы
 show_downloads: true
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: annndruha/minimal-resume@v0.2.0
 plugins:
 - jekyll-remote-theme
