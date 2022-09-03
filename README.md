@@ -1,125 +1,62 @@
-# Андрей Маракулин
+# Education
 
----
-layout: default
----
+### University of Tyumen
+(Tyumen)
+Physical Faculty, Technical physics
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Lomonosov Moscow State University
+(Moscow)
+Faculty of Physics, department of particles physics
 
-[Link to another page](./another-page.html).
+# Skills
 
-There should be whitespace between paragraphs.
+### TensorFlow, Deep Learning, Machine Learning
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Image recognition, classification, generative nets etc.
 
-# Header 1
+### Computer vision, OpenCV, OpenGL
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Art application, detection, real-time recognition
 
-## Header 2
+### 3D-modeling, Autodesk Fusion 360, Adobe PS, Corel Draw
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Airplanes models, parts-modeling, layouts, laser cutting
 
-### Header 3
+### Servers, Git, Mercurial, Linux, Docker, PostgreSQL
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Launch, support, systemization, API-development
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Microcontrollers programming
 
-#### Header 4
+Arduino, Raspberry controllers, device creation
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+# Work experience
 
-##### Header 5
+### Tutor of microcontrollers programming
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+*Initiative Creativity Center of the Youth "FabLab UTMN" (Tyumen, Russia)*
 
-###### Header 6
+Tutor for programming microcontrollers and development of high-tech devices for children aged 12-15 years. Project Leader, I read a course on programming in C++, binary logic, and practical applications.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### Tutor of C++ and Python programming languages
 
-### There's a horizontal rule below this.
+*Freelance*
 
-* * *
+Assistance to children, high school students, university students and graduates with the development of courses in programming languages, helps with term paper and thesis writing.
 
-### Here is an unordered list:
+### Python developer, Deep Learning Engineer
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*Center of Engineering Physics at Lomonosov Moscow State University*
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Working on “EyePoint P10” - a signature analysis system. EyePoint P10 aims to detect faulty electronic components on printed circuit boards. My respon-sibilities are write Python code, fix bugs, working on architecture and use deep neural networks for electronic components recognition.
 
 
-### Definition lists can be used with HTML syntax.
+### Teacher of neural networks courses
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+*Faculty of Physics, Lomonosov Moscow State University*
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+I teach a one-year course on neural networks and machine learning second term students of the Faculty of Physics. The course covers a wide range of neural networks types, deals with solving various problems, and covers such studies-related tools as TensorFlow, Git, Jupiter. In the second part of the course, students do a practice-oriented coursework with teacher assistance.
 
-```
-The final element.
-```
+# Open source projects
+
+[![](https://raw.githubusercontent.com/Annndruha/PulchraBookmarks/main/images/branding/logo128.png)](https://chrome.google.com/webstore/detail/pulchra-bookmarks/pknkgclggganidoalifaagfjikhcdolb)
