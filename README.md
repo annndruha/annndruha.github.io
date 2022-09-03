@@ -1,4 +1,4 @@
-# Education
+# 🎓 Education
 
 ### University of Tyumen
 (Tyumen)
@@ -8,7 +8,7 @@ Physical Faculty, Technical physics
 (Moscow)
 Faculty of Physics, department of particles physics
 
-# Skills
+# 🛠️ Skills
 
 ### TensorFlow, Deep Learning, Machine Learning
 
@@ -30,7 +30,7 @@ Launch, support, systemization, API-development
 
 Arduino, Raspberry controllers, device creation
 
-# Work experience
+# 👨🏻‍💻 Work experience
 
 ### Tutor of microcontrollers programming
 
@@ -57,6 +57,6 @@ Working on “EyePoint P10” - a signature analysis system. EyePoint P10 aims t
 
 I teach a one-year course on neural networks and machine learning second term students of the Faculty of Physics. The course covers a wide range of neural networks types, deals with solving various problems, and covers such studies-related tools as TensorFlow, Git, Jupiter. In the second part of the course, students do a practice-oriented coursework with teacher assistance.
 
-# Open source projects
+# 🧩 Open source projects
 
 [![](https://raw.githubusercontent.com/Annndruha/PulchraBookmarks/main/images/branding/logo128.png)](https://chrome.google.com/webstore/detail/pulchra-bookmarks/pknkgclggganidoalifaagfjikhcdolb)
