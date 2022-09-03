@@ -1,6 +1,7 @@
 title: Андрей Маракулин
 logo: /assets/images/photo.png
 description: CV
+show_links: true
 remote_theme: annndruha/minimal-resume@v0.2.1
 plugins:
 - jekyll-remote-theme
