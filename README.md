@@ -1,4 +1,4 @@
-# Resume (CV) site. [Example](cv.annndruha.space)
+# Resume (CV) site. [Example](https://cv.annndruha.space/)
 
 Launch your resume site without server on github pages! Only need a domain.
 
@@ -31,3 +31,8 @@ Launch your resume site without server on github pages! Only need a domain.
   ```
 * Change [index.md](./index.md) with you information
 * Wait for actions auto build and enjoy your site 😋!
+
+
+# Additional
+
+This site required pages theme [minimal-resume](https://github.com/Annndruha/minimal-resume) which is in the [_config.yml](./_config.yml) as remote_theme.
