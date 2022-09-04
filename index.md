@@ -1,4 +1,4 @@
-# 🎓 Education
+# <a>🎓 Education</a>
 
 * ### University of Tyumen
     (Tyumen) Physical Faculty, Technical physics
@@ -9,7 +9,7 @@
 * ### Sirius University of Science and Technology
     (Adler Microdistrict) Mathematical Robotics and Artificial Intelligence
 
-# 🛠️ Skills
+# <a>🛠️ Skills</a>
 
 * ### TensorFlow, Deep Learning, Machine Learning
 
@@ -31,7 +31,7 @@
 
     Arduino, Raspberry controllers, device creation
 
-# 👨🏻‍💻 Work experience
+# <a>👨🏻‍💻 Work experience</a>
 
 * ### Tutor of microcontrollers programming
 
@@ -58,7 +58,7 @@
 
     I teach a one-year course on neural networks and machine learning second term students of the Faculty of Physics. The course covers a wide range of neural networks types, deals with solving various problems, and covers such studies-related tools as TensorFlow, Git, Jupiter. In the second part of the course, students do a practice-oriented coursework with teacher assistance.
 
-# 🧩 Open source projects
+# <a>🧩 Open source projects</a>
 
 * **[PulchraBookmarks](https://chrome.google.com/webstore/detail/pulchra-bookmarks/pknkgclggganidoalifaagfjikhcdolb)** - Chrome extension for newtab
 * **[Sessiya Bot](https://github.com/Annndruha/sessiyabot)** - VKontakte Chat-bot for students
