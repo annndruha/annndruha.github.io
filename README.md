@@ -11,7 +11,7 @@ Launch your resume site without server on github pages! Only need a domain.
   * Go to `Pages/Custom domain` enter you `cv.<example.com>` (And enforce HTTPS)
 * Make sure that CNAME file in repo contain your subdomain and domain `cv.<example.com>`
 * Change left side with your information via [_config.yml](./_config.yml) like this:
-  ```
+  ```yaml
   fullname: Andrey Marakulin
   favicon: /assets/images/favicon.svg
   logo: /assets/images/photo.png
