@@ -36,3 +36,5 @@ Launch your resume site without server on github pages! Only need a domain.
 # Additional
 
 This site required pages theme [minimal-resume](https://github.com/Annndruha/minimal-resume) which is in the [_config.yml](./_config.yml) as remote_theme.
+
+Site hasn't got a pdf converter, hand update file [cv_pdf.pdf](./pdf/cv_pdf.pdf) and [assets/images/photo.png](./assets/images/photo.png)
