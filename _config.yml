@@ -1,12 +1,11 @@
 title: Андрей Маракулин
 favicon: /assets/images/favicon.svg
 logo: /assets/images/photo.png
-description: CV
 
 show_info: true
 age: 23 y.o.
 location: Sirius, Russia
-language: Russian (native), English (intermediate)
+language: Russian, English
 
 show_contacts: true
 mailto: mailto:annndruha.github@gmail.com
