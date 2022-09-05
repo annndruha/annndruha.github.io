@@ -60,6 +60,12 @@
 
 # <a id="projects" href="#projects">🧩 Open source projects</a>
 
+
+<p align="left">
+  <img alt="Top Langs" width=36% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annndruha&layout=compact" />
+  <img alt="github stats" width=44% src="https://github-readme-stats.vercel.app/api?username=Annndruha&show_icons=true" />
+</p>
+
 * **[PulchraBookmarks](https://chrome.google.com/webstore/detail/pulchra-bookmarks/pknkgclggganidoalifaagfjikhcdolb)** - Chrome extension for newtab
 * **[Sessiya Bot](https://github.com/Annndruha/sessiyabot)** - VKontakte Chat-bot for students
 * **[Music Files Normalizer](https://github.com/Annndruha/music_files_normalizer)** - Program for mass correction of .mp3 file names
