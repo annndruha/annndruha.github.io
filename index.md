@@ -65,9 +65,8 @@
 * **[Music Files Normalizer](https://github.com/Annndruha/music_files_normalizer)** - Program for mass correction of .mp3 file names
 * **[EPC-MSU/epdetection](https://github.com/EPC-MSU/epdetection)** - Module to detect PCB components by neural network
 
+# <a id="location" href="https://goo.gl/maps/m7Bz45zYJbsB7d8s6">✈️ Where I am now?</a>
 
-# <a id="location" href="#location">✈️ Where I am now?</a>
+Next flights:
 
-Check last flight:
-
-<a href="https://my.flightradar24.com/AMarakulin"><img src="https://banners-my.flightradar24.com/AMarakulin.png" alt="My Flightdiary.net profile" /></a>
+<a href="https://my.flightradar24.com/AMarakulin"><img src="https://banners-my.flightradar24.com/AMarakulin-future.png" alt="My Flightdiary.net profile" /></a>
