@@ -1,8 +1,5 @@
 # <a id="education" href="#education">🎓 Education</a>
 
-* ### University of Tyumen
-    (Tyumen) Physical Faculty, Technical physics
-
 * ### Lomonosov Moscow State University
     (Moscow) Faculty of Physics, department of particles physics
 
@@ -11,39 +8,36 @@
 
 # <a id="skills" href="#skills">🛠️ Skills</a>
 
-* ### TensorFlow, Deep Learning, Machine Learning
-
+* ### ML, DL, Computer vision
     Image recognition, classification, generative nets etc.
+    <p align="left">
+      <img src="assets/icons/python.svg" width=15px>
+      <img src="assets/icons/pytorch.svg" width=15px>
+      <img src="assets/icons/tensorflow.svg" width=15px>
+      <img src="assets/icons/numpy-icon.svg" width=15px>
+      <img src="assets/icons/pandas-icon.svg" width=11px>
+      <img src="assets/icons/opencv.svg" width=11px>
+      <img src="assets/icons/jupyter.svg" width=11px>
+    </p>
 
-* ### Computer vision, OpenCV, OpenGL
-
-    Art application, detection, real-time recognition
-
-* ### 3D-modeling, Autodesk Fusion 360, Adobe PS, Corel Draw
-
-    Airplanes models, parts-modeling, layouts, laser cutting
-
-* ### Servers, Git, Mercurial, Linux, Docker, PostgreSQL
+* ### Devops
 
     Launch, support, systemization, API-development
+    <p align="left">
+      <img src="assets/icons/qt.svg" width=15px>
+      <img src="assets/icons/html-5.svg" width=15px>
+      <img src="assets/icons/css-3.svg" width=15px>
+      <img src="assets/icons/javascript.svg" width=15px>
+      <img src="assets/icons/git-icon.svg" width=15px>
+      <img src="assets/icons/mercurial.svg" width=15px>
+      <img src="assets/icons/github-icon.svg" width=15px>
+      <img src="assets/icons/postgresql.svg" width=15px>
+      <img src="assets/icons/linux-tux.svg" width=15px>
+      <img src="assets/icons/docker-icon.svg" width=15px>
+    </p>
 
-* ### Microcontrollers programming
-
-    Arduino, Raspberry controllers, device creation
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
-
-* ### Tutor of microcontrollers programming
-
-    *Initiative Creativity Center of the Youth "FabLab UTMN" (Tyumen, Russia)*
-
-    Tutor for programming microcontrollers and development of high-tech devices for children aged 12-15 years. Project Leader, I read a course on programming in C++, binary logic, and practical applications.
-
-* ### Tutor of C++ and Python programming languages
-
-    *Freelance*
-
-    Assistance to children, high school students, university students and graduates with the development of courses in programming languages, helps with term paper and thesis writing.
 
 * ### Python developer, Deep Learning Engineer
 
@@ -67,6 +61,6 @@
 
 # <a id="location" href="https://goo.gl/maps/m7Bz45zYJbsB7d8s6">✈️ Where I am now?</a>
 
-Next flights:
+* Next flights:
 
-<a href="https://my.flightradar24.com/AMarakulin"><img src="https://banners-my.flightradar24.com/AMarakulin-future.png" alt="My Flightdiary.net profile" /></a>
+   <a href="https://my.flightradar24.com/AMarakulin"><img src="https://banners-my.flightradar24.com/AMarakulin-future.png" alt="My Flightdiary.net profile" /></a>
