@@ -2,7 +2,6 @@
 
 Launch your resume site without server on github pages! Only need a domain.
 
-
 # Configuration
 
 * Fork this repo as `<you_nickname>.github.io`
