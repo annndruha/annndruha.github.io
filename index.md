@@ -8,64 +8,63 @@
 
 # <a id="skills" href="#skills">🛠️ Skills</a>
 
-* ### Primary stack: Python, ML/DL, Computer vision
-    Image recognition, classification, generative nets etc.
+* ### Primary stack: 
+    Python, ML, DL, Computer vision
     <p align="left">
-      <img src="assets/icons/python.svg" width=24px>
-      <img src="assets/icons/pytorch.svg" width=24px>
-      <img src="assets/icons/tensorflow.svg" width=24px>
-      <img src="assets/icons/numpy-icon.svg" width=24px>
-      <img src="assets/icons/pandas-icon.svg" width=20px>
-      <img src="assets/icons/opencv.svg" width=20px>
-      <img src="assets/icons/jupyter.svg" width=20px>
+      <img src="assets/icons/python.svg" width=30px>
+      <img src="assets/icons/jupyter.svg" width=25px>
+      <img src="assets/icons/pytorch.svg" width=30px>
+      <img src="assets/icons/tensorflow.svg" width=30px>
+      <img src="assets/icons/numpy-icon.svg" width=30px>
+      <img src="assets/icons/pandas-icon.svg" width=25px>
+      <img src="assets/icons/opencv.svg" width=25px>
     </p>
 
 * ### Secondary stack
-
-    Launch, support, systemization, API-development
+    Desktop apps, web, UI
     <p align="left">
-      <img src="assets/icons/c-plusplus.svg" width=18px>
-      <img src="assets/icons/qt.svg" width=18px>
-      <img src="assets/icons/html-5.svg" width=18px>
-      <img src="assets/icons/css-3.svg" width=18px>
-      <img src="assets/icons/javascript.svg" width=18px>
+      <img src="assets/icons/c-plusplus.svg" width=30px>
+      <img src="assets/icons/qt.svg" width=30px>
+      <img src="assets/icons/html-5.svg" width=30px>
+      <img src="assets/icons/css-3.svg" width=30px>
+      <img src="assets/icons/javascript.svg" width=30px>
     </p>
 
 
 * ### Other
+    CI/CD, Automatization, Scripting, SQL
     <p align="left">
-      <img src="assets/icons/git-icon.svg" width=18px>
-      <img src="assets/icons/mercurial.svg" width=18px>
-      <img src="assets/icons/github-icon.svg" width=18px>
-      <img src="assets/icons/postgresql.svg" width=18px>
-      <img src="assets/icons/linux-tux.svg" width=18px>
-      <img src="assets/icons/docker-icon.svg" width=18px>
+      <img src="assets/icons/git-icon.svg" width=30px>
+      <img src="assets/icons/mercurial.svg" width=30px>
+      <img src="assets/icons/github-icon.svg" width=30px>
+      <img src="assets/icons/gitlab.svg" width=30px>
+      <img src="assets/icons/postgresql.svg" width=30px>
+      <img src="assets/icons/linux-tux.svg" width=30px>
+      <img src="assets/icons/docker-icon.svg" width=30px>
     </p>
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
 
-* ### Python developer, Deep Learning Engineer
+* ### Deep Learning Engineer, Python developer
 
     *Center of Engineering Physics at Lomonosov Moscow State University*
 
-    Working on “EyePoint P10” - a signature analysis system. EyePoint P10 aims to detect faulty electronic components on printed circuit boards. My respon-sibilities are write Python code, fix bugs, working on architecture and use deep neural networks for electronic components recognition.
+    Working on “EyePoint P10” - a signature analysis system. EyePoint P10 aims to detect faulty electronic components on printed circuit boards. My responsibilities are write Python code, modules, fix bugs, working on architecture and use deep neural networks for electronic components recognition.
 
 
 * ### Teacher of neural networks courses
 
-    *Faculty of Physics, Lomonosov Moscow State University*
+    *Lomonosov Moscow State University*
 
-    I teach a one-year course on neural networks and machine learning second term students of the Faculty of Physics. The course covers a wide range of neural networks types, deals with solving various problems, and covers such studies-related tools as TensorFlow, Git, Jupiter. In the second part of the course, students do a practice-oriented coursework with teacher assistance.
+    I teach a one-year Neural Networks course for postgraduate MSU students. The course covers a wide range of neural networks types, deals with solving various problems. In the second part of the course, students did implemented neural networks in their scientific work under my guidance
 
 # <a id="projects" href="#projects">🧩 Open source projects</a>
 
+* **[EPC-MSU/epdetection](https://github.com/EPC-MSU/epdetection)** - Module to detect PCB components by neural network
 * **[PulchraBookmarks](https://chrome.google.com/webstore/detail/pulchra-bookmarks/pknkgclggganidoalifaagfjikhcdolb)** - Chrome extension for newtab
 * **[Sessiya Bot](https://github.com/Annndruha/sessiyabot)** - VKontakte Chat-bot for students
 * **[Music Files Normalizer](https://github.com/Annndruha/music_files_normalizer)** - Program for mass correction of .mp3 file names
-* **[EPC-MSU/epdetection](https://github.com/EPC-MSU/epdetection)** - Module to detect PCB components by neural network
 
-# <a id="location" href="https://goo.gl/maps/m7Bz45zYJbsB7d8s6">✈️ Where I am now?</a>
-
-* Next flights:
-
-   <a href="https://my.flightradar24.com/AMarakulin"><img src="https://banners-my.flightradar24.com/AMarakulin-future.png" alt="My Flightdiary.net profile" /></a>
+# <a id="contacts" href="#contacts">📧 Contacts</a>
+* Mail: [annndruha.github@gmail.com](mailto:annndruha.github@gmail.com)
+* Profile on [Github](https://github.com/Annndruha)
