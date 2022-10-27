@@ -8,34 +8,39 @@
 
 # <a id="skills" href="#skills">🛠️ Skills</a>
 
-* ### ML, DL, Computer vision
+* ### Primary stack: Python, ML/DL, Computer vision
     Image recognition, classification, generative nets etc.
     <p align="left">
-      <img src="assets/icons/python.svg" width=15px>
-      <img src="assets/icons/pytorch.svg" width=15px>
-      <img src="assets/icons/tensorflow.svg" width=15px>
-      <img src="assets/icons/numpy-icon.svg" width=15px>
-      <img src="assets/icons/pandas-icon.svg" width=11px>
-      <img src="assets/icons/opencv.svg" width=11px>
-      <img src="assets/icons/jupyter.svg" width=11px>
+      <img src="assets/icons/python.svg" width=24px>
+      <img src="assets/icons/pytorch.svg" width=24px>
+      <img src="assets/icons/tensorflow.svg" width=24px>
+      <img src="assets/icons/numpy-icon.svg" width=24px>
+      <img src="assets/icons/pandas-icon.svg" width=20px>
+      <img src="assets/icons/opencv.svg" width=20px>
+      <img src="assets/icons/jupyter.svg" width=20px>
     </p>
 
-* ### Devops
+* ### Secondary stack
 
     Launch, support, systemization, API-development
     <p align="left">
-      <img src="assets/icons/qt.svg" width=15px>
-      <img src="assets/icons/html-5.svg" width=15px>
-      <img src="assets/icons/css-3.svg" width=15px>
-      <img src="assets/icons/javascript.svg" width=15px>
-      <img src="assets/icons/git-icon.svg" width=15px>
-      <img src="assets/icons/mercurial.svg" width=15px>
-      <img src="assets/icons/github-icon.svg" width=15px>
-      <img src="assets/icons/postgresql.svg" width=15px>
-      <img src="assets/icons/linux-tux.svg" width=15px>
-      <img src="assets/icons/docker-icon.svg" width=15px>
+      <img src="assets/icons/c-plusplus.svg" width=18px>
+      <img src="assets/icons/qt.svg" width=18px>
+      <img src="assets/icons/html-5.svg" width=18px>
+      <img src="assets/icons/css-3.svg" width=18px>
+      <img src="assets/icons/javascript.svg" width=18px>
     </p>
 
+
+* ### Other
+    <p align="left">
+      <img src="assets/icons/git-icon.svg" width=18px>
+      <img src="assets/icons/mercurial.svg" width=18px>
+      <img src="assets/icons/github-icon.svg" width=18px>
+      <img src="assets/icons/postgresql.svg" width=18px>
+      <img src="assets/icons/linux-tux.svg" width=18px>
+      <img src="assets/icons/docker-icon.svg" width=18px>
+    </p>
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
 
