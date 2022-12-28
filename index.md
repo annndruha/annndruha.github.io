@@ -1,4 +1,4 @@
-<div style="display:none;"></div>
+<a style="display:none;">Test</a>
 
 # <a id="education" href="#education">🎓 Education</a>
 
