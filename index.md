@@ -1,5 +1,4 @@
-<a style="display:none;">Test</a>
-
+<a style="display:none;">Andrey Marakulin CV</a>
 # <a id="education" href="#education">🎓 Education</a>
 
 * ### Lomonosov Moscow State University
