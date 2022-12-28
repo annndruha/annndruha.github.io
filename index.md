@@ -1,3 +1,5 @@
+<div style="display:none;"></div>
+
 # <a id="education" href="#education">🎓 Education</a>
 
 * ### Lomonosov Moscow State University
