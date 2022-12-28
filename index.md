@@ -12,36 +12,36 @@
 * ### Primary stack: 
     Python, ML, DL, Computer vision
     <p align="left">
-      <img src="assets/icons/python.svg" width=30px style="padding-right:3px;">
+      <img src="assets/icons/python.svg" width=35px style="padding-right:3px;">
       <img src="assets/icons/jupyter.svg" width=25px style="padding-right:3px;">
-      <img src="assets/icons/pytorch.svg" width=30px style="padding-right:3px;">
-      <img src="assets/icons/tensorflow.svg" width=30px style="padding-right:3px;">
-      <img src="assets/icons/numpy-icon.svg" width=30px style="padding-right:3px;">
-      <img src="assets/icons/pandas-icon.svg" width=25px style="padding-right:3px;">
-      <img src="assets/icons/opencv.svg" width=25px style="padding-right:3px;">
+      <img src="assets/icons/pytorch.svg" width=35px style="padding-right:3px;">
+      <img src="assets/icons/tensorflow.svg" width=35px style="padding-right:3px;">
+      <img src="assets/icons/numpy-icon.svg" width=35px style="padding-right:3px;">
+      <img src="assets/icons/pandas-icon.svg" width=30px style="padding-right:3px;">
+      <img src="assets/icons/opencv.svg" width=30px style="padding-right:3px;">
     </p>
 
 * ### Secondary stack
     Desktop apps, web, UI
     <p align="left">
-      <img src="assets/icons/c-plusplus.svg" width=30px style="padding-right:3px;">
-      <img src="assets/icons/qt.svg" width=30px style="padding-right:3px;">
-      <img src="assets/icons/html-5.svg" width=30px style="padding-right:3px;">
-      <img src="assets/icons/css-3.svg" width=30px style="padding-right:3px;">
-      <img src="assets/icons/javascript.svg" width=30px style="padding-right:3px;">
+      <img src="assets/icons/c-plusplus.svg" width=35px style="padding-right:3px;">
+      <img src="assets/icons/qt.svg" width=35px style="padding-right:3px;">
+      <img src="assets/icons/html-5.svg" width=35px style="padding-right:3px;">
+      <img src="assets/icons/css-3.svg" width=35px style="padding-right:3px;">
+      <img src="assets/icons/javascript.svg" width=35px style="padding-right:3px;">
     </p>
 
 
 * ### Other
     CI/CD, Automatization, Scripting, SQL
     <p align="left">
-      <img src="assets/icons/git-icon.svg" width=30px style="padding-right:3px;">
-      <img src="assets/icons/mercurial.svg" width=30px style="padding-right:3px;">
-      <img src="assets/icons/github-icon.svg" width=30px style="padding-right:3px;">
-      <img src="assets/icons/gitlab.svg" width=30px style="padding-right:3px;">
-      <img src="assets/icons/postgresql.svg" width=30px style="padding-right:3px;">
-      <img src="assets/icons/linux-tux.svg" width=30px style="padding-right:3px;">
-      <img src="assets/icons/docker-icon.svg" width=30px style="padding-right:3px;">
+      <img src="assets/icons/git-icon.svg" width=35px style="padding-right:3px;">
+      <img src="assets/icons/mercurial.svg" width=35px style="padding-right:3px;">
+      <img src="assets/icons/github-icon.svg" width=35px style="padding-right:3px;">
+      <img src="assets/icons/gitlab.svg" width=35px style="padding-right:3px;">
+      <img src="assets/icons/postgresql.svg" width=35px style="padding-right:3px;">
+      <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:3px;">
+      <img src="assets/icons/docker-icon.svg" width=35px style="padding-right:3px;">
     </p>
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
