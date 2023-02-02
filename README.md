@@ -1,15 +1,16 @@
-# Resume (CV) site. [Example](https://cv.annndruha.space/)
+# Fork this repo for easiest Resume (CV) site. [Example](https://cv.annndruha.space/)
 
 Launch your resume site without server on github pages! Only need a domain.
 
 # Configuration
 
-* Fork this repo as `<you_nickname>.github.io`
-* Create CNAME subdomain record on your DNS provider:
-  * `cv` -> `<you_nickname>.github.io`
-* Open fork repository settings
+* Fork this repo as `<you_github_nickname>.github.io`
+* Setup your domain (may skip this and site be on `<you_github_nickname>.github.io`)
+  * Create CNAME subdomain record on your DNS provider:
+    * `cv` -> `<you_nickname>.github.io`
+  * Open fork repository settings
   * Go to `Pages/Custom domain` enter you `cv.<example.com>` (And enforce HTTPS)
-* Make sure that CNAME file in repo contain your subdomain and domain `cv.<example.com>`
+  * Make sure that CNAME file in repo contain your subdomain and domain `cv.<example.com>`
 * Change left side with your information via [_config.yml](./_config.yml) like this:
   ```yaml
   fullname: Andrey Marakulin
@@ -31,6 +32,7 @@ Launch your resume site without server on github pages! Only need a domain.
   - jekyll-remote-theme
   ```
 * Change [index.md](./index.md) with you information
+* Change `/assets/images/photo.png` and pdf link
 * Wait for actions auto build and enjoy your site 😋!
 
 
