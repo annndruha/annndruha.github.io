@@ -1,4 +1,4 @@
-# Fork this repo for easiest create your Resume (CV) site. [My site example](https://cv.annndruha.space/)
+# Fork this repo for create your site with CV. [My CV example](https://cv.annndruha.space/)
 Launch your resume site without server on github pages! Only need a domain.
 
 # Configuration
