@@ -12,36 +12,36 @@
 * ### Primary stack: 
     Python, ML, DL, Computer vision
     <p align="left">
-      <img src="assets/icons/python.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/jupyter.svg" width=25px style="padding-right:5px;">
-      <img src="assets/icons/pytorch.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/tensorflow.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/numpy-icon.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/pandas-icon.svg" width=30px style="padding-right:5px;">
-      <img src="assets/icons/opencv.svg" width=30px style="padding-right:5px;">
+      <img src="assets/icons/python.svg" width=35px style="padding-right:5px;" title="Python">
+      <img src="assets/icons/jupyter.svg" width=25px style="padding-right:5px;" title="Jupyter Notebook">
+      <img src="assets/icons/pytorch.svg" width=35px style="padding-right:5px;" title="PyTorch">
+      <img src="assets/icons/tensorflow.svg" width=35px style="padding-right:5px;" title="TensorFlow">
+      <img src="assets/icons/numpy-icon.svg" width=35px style="padding-right:5px;" title="NumPy">
+      <img src="assets/icons/pandas-icon.svg" width=30px style="padding-right:5px;" title="Pandas">
+      <img src="assets/icons/opencv.svg" width=30px style="padding-right:5px;" title="OpenCV">
     </p>
 
 * ### Secondary stack
     Desktop apps, web, UI
     <p align="left">
-      <img src="assets/icons/c-plusplus.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/qt.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/html-5.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/css-3.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/javascript.svg" width=35px style="padding-right:5px;">
+      <img src="assets/icons/c-plusplus.svg" width=35px style="padding-right:5px;" title="C++">
+      <img src="assets/icons/qt.svg" width=35px style="padding-right:5px;" title="Qt">
+      <img src="assets/icons/html-5.svg" width=35px style="padding-right:5px;" title="HTML">
+      <img src="assets/icons/css-3.svg" width=35px style="padding-right:5px;" title="CSS">
+      <img src="assets/icons/javascript.svg" width=35px style="padding-right:5px;" title="Javascript">
     </p>
 
 
 * ### Other
     CI/CD, Automatization, Scripting, SQL
     <p align="left">
-      <img src="assets/icons/git-icon.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/mercurial.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/github-icon.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/gitlab.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/postgresql.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/docker-icon.svg" width=35px style="padding-right:5px;">
+      <img src="assets/icons/git-icon.svg" width=35px style="padding-right:5px;" title="Git">
+      <img src="assets/icons/mercurial.svg" width=35px style="padding-right:5px;" title="Mercurial">
+      <img src="assets/icons/github-icon.svg" width=35px style="padding-right:5px;" title="Github">
+      <img src="assets/icons/gitlab.svg" width=35px style="padding-right:5px;" title="Gitlab">
+      <img src="assets/icons/postgresql.svg" width=35px style="padding-right:5px;" title="PostgreSQL">
+      <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;" title="Linux">
+      <img src="assets/icons/docker-icon.svg" width=35px style="padding-right:5px;" title="Docker">
     </p>
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
