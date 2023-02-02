@@ -16,15 +16,16 @@ Launch your resume site without server on github pages! Only need a domain.
   favicon: /assets/images/favicon.svg
   logo: /assets/images/photo.png
   
-  show_info: true
-  age: 23 y.o.
-  location: Sirius, Russia
+  show_info: true # Show block with information
+  age: 24 y.o.
+  location: Moscow, Russia
   language: Russian, English
   
-  show_contacts: true
+  show_contacts: true # Show block with buttons
   mailto: mailto:annndruha.github@gmail.com
   cv_pdf_link: https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/pdf/cv_pdf.pdf
   
+  # Don't change this
   remote_theme: annndruha/minimal-resume
   plugins:
   - jekyll-remote-theme
