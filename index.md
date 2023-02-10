@@ -4,8 +4,8 @@
 * ### Lomonosov Moscow State University
     (Moscow) Faculty of Physics, department of particles physics
 
-* ### Sirius University of Science and Technology
-    (Adler Microdistrict) Mathematical Robotics and Artificial Intelligence
+* ### Moscow Institute of Physics and Technology
+    (Moscow) Applied Mathematics and Computer Science, Department of Technologies of Digital Transformation
 
 # <a id="skills" href="#skills">🛠️ Skills</a>
 
