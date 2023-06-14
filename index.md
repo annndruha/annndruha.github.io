@@ -1,11 +1,28 @@
 <a style="display:none;">Andrey Marakulin CV</a>
+
+
+# <a id="works" href="#works">👨🏻‍💻 Work experience</a>
+
+* ### Deep Learning Engineer, Python developer
+
+    *Center of Engineering Physics at Lomonosov Moscow State University*
+
+    Working on “EyePoint P10” - a signature analysis system. EyePoint P10 aims to detect faulty electronic components on printed circuit boards. My responsibilities are write Python code, modules, fix bugs, working on architecture and use deep neural networks for electronic components recognition.
+
+
+* ### Teacher of neural networks courses
+
+    *Lomonosov Moscow State University*
+
+    I teach a one-year Neural Networks course for postgraduate MSU students. The course covers a wide range of neural networks types, deals with solving various problems. In the second part of the course, students did implemented neural networks in their scientific work under my guidance
+
 # <a id="education" href="#education">🎓 Education</a>
 
 * ### Lomonosov Moscow State University
-    (Moscow) Faculty of Physics, department of particles physics
+    (2018-2022, Moscow) Faculty of Physics, department of particles physics
 
 * ### Moscow Institute of Physics and Technology
-    (Moscow) Applied Mathematics and Computer Science, Department of Technologies of Digital Transformation
+    (2022-2024, Moscow) Applied Mathematics and Computer Science, Department of Technologies of Digital Transformation
 
 # <a id="skills" href="#skills">🛠️ Skills</a>
 
@@ -44,27 +61,12 @@
       <img src="assets/icons/docker-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Docker">
     </p>
 
-# <a id="works" href="#works">👨🏻‍💻 Work experience</a>
 
-* ### Deep Learning Engineer, Python developer
-
-    *Center of Engineering Physics at Lomonosov Moscow State University*
-
-    Working on “EyePoint P10” - a signature analysis system. EyePoint P10 aims to detect faulty electronic components on printed circuit boards. My responsibilities are write Python code, modules, fix bugs, working on architecture and use deep neural networks for electronic components recognition.
-
-
-* ### Teacher of neural networks courses
-
-    *Lomonosov Moscow State University*
-
-    I teach a one-year Neural Networks course for postgraduate MSU students. The course covers a wide range of neural networks types, deals with solving various problems. In the second part of the course, students did implemented neural networks in their scientific work under my guidance
-
-# <a id="projects" href="#projects">🧩 Open source projects</a>
-
+# <a id="projects" href="#projects">🧩 Open source projects </a>
 * **[EPC-MSU/epdetection](https://github.com/EPC-MSU/epdetection)** - Module to detect PCB components by neural network
+* **[Monitoring API](https://github.com/SmartThinksDIY/DHT11-api)** - API Server for collect data from measurements devices
 * **[PulchraBookmarks](https://chrome.google.com/webstore/detail/pulchra-bookmarks/pknkgclggganidoalifaagfjikhcdolb)** - Chrome extension for newtab
-* **[Sessiya Bot](https://github.com/Annndruha/sessiyabot)** - VKontakte Chat-bot for students
-* **[Music Files Normalizer](https://github.com/Annndruha/music_files_normalizer)** - Program for mass correction of .mp3 file names
+* **[Github Issue Telegram Bot](https://github.com/annndruha/issue-github-telegram-bot)** - Bot for creation GitHub issue straight from Telegram group chat
 
 # <a id="contacts" href="#contacts">📧 Contacts</a>
 * Mail: [annndruha.github@gmail.com](mailto:annndruha.github@gmail.com)
