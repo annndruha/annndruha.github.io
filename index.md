@@ -3,18 +3,30 @@
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
 
-* ### Deep Learning Engineer, Python developer
+* ### DL-engineer
 
-    *Center of Engineering Physics at Lomonosov Moscow State University*
+    *2023 Moscow Institute of Physics and Technology*
 
-    Working on “EyePoint P10” - a signature analysis system. EyePoint P10 aims to detect faulty electronic components on printed circuit boards. My responsibilities are write Python code, modules, fix bugs, working on architecture and use deep neural networks for electronic components recognition.
+    For a short time I worked in a laboratory engaged in the analysis of echolocation images. My main task was to process data and apply object detection models such as YOLO.
 
+* ### Ideological inspirer of the faculty application
+
+    *2021-present MSU Faculty of Physics*
+
+    With friends, created a community of volunteer programmers of MSU Faculty of Physics. With team we developed [PWA application](https://app.profcomff.com/apps) for students and teachers of the faculty, which is used by almost the entire faculty. The application consists of many modules covering a large stack of technologies like: databases, servers, APIs, auth, frontend, backend, analytics.
 
 * ### Teacher of neural networks courses
 
-    *Lomonosov Moscow State University*
+    *2020-2022 Lomonosov Moscow State University*
 
-    I teach a one-year Neural Networks course for postgraduate MSU students. The course covers a wide range of neural networks types, deals with solving various problems. In the second part of the course, students did implemented neural networks in their scientific work under my guidance
+    I teach a one-year Neural Networks course for postgraduate MSU students. [The course](https://msu.ai) covers a wide range of neural networks types, deals with solving various problems. In the second part of the course, students did implemented neural networks in their scientific work under my guidance
+
+* ### Deep Learning Engineer, Python developer
+
+    *2020-2022 [Center of Engineering Physics](https://engineering.phys.msu.ru/ru/) at Lomonosov Moscow State University*
+
+    Working on “EyePoint P10” - a signature analysis system. EyePoint P10 aims to detect faulty electronic components on printed circuit boards. My responsibilities are write Python code, modules, fix bugs, working on architecture and use deep neural networks for electronic components recognition.
+
 
 # <a id="education" href="#education">🎓 Education</a>
 
