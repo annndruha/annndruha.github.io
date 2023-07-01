@@ -47,7 +47,7 @@
       <img src="assets/icons/tensorflow.svg" width=35px style="padding-right:5px;" draggable="false" title="TensorFlow">
       <img src="assets/icons/numpy-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="NumPy">
       <img src="assets/icons/matplotlib.svg" width=35px style="padding-right:5px;" draggable="false" title="Matplotlib">
-      <img src="assets/icons/pandas-icon.svg" width=30px style="padding-right:5px;" title="Pandas">
+      <img src="assets/icons/pandas-icon.svg" width=30px style="padding-right:5px;" draggable="false" title="Pandas">
       <img src="assets/icons/opencv.svg" width=30px style="padding-right:5px;" draggable="false" title="OpenCV">
     </p>
 
@@ -59,9 +59,9 @@
       <img src="assets/icons/qt.svg" width=35px style="padding-right:5px;" draggable="false" title="Qt">
       <img src="assets/icons/html-5.svg" width=35px style="padding-right:5px;" draggable="false" title="HTML">
       <img src="assets/icons/css-3.svg" width=35px style="padding-right:5px;" draggable="false" title="CSS">
-      <img src="assets/icons/graphql.svg" width=35px style="padding-right:5px;" title="GraphQL">
-      <img src="assets/icons/fastapi.svg" width=35px style="padding-right:5px;" title="FastAPI">
-      <img src="assets/icons/arduino.svg" width=40px style="padding-right:5px;" title="Arduino">
+      <img src="assets/icons/graphql.svg" width=35px style="padding-right:5px;" draggable="false" title="GraphQL">
+      <img src="assets/icons/fastapi.svg" width=35px style="padding-right:5px;" draggable="false" title="FastAPI">
+      <img src="assets/icons/arduino.svg" width=40px style="padding-right:5px;" draggable="false" title="Arduino">
   </p>
 
 
