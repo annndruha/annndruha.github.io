@@ -39,26 +39,30 @@
 # <a id="skills" href="#skills">🛠️ Skills</a>
 
 * ### Primary stack: 
-    Python, ML, DL, Computer vision
+    Python, ML/DL, Computer vision
     <p align="left">
       <img src="assets/icons/python.svg" width=35px style="padding-right:5px;" draggable="false" title="Python">
       <img src="assets/icons/jupyter.svg" width=25px style="padding-right:5px;" draggable="false" title="Jupyter Notebook">
       <img src="assets/icons/pytorch.svg" width=35px style="padding-right:5px;" draggable="false" title="PyTorch">
       <img src="assets/icons/tensorflow.svg" width=35px style="padding-right:5px;" draggable="false" title="TensorFlow">
       <img src="assets/icons/numpy-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="NumPy">
+      <img src="assets/icons/matplotlib.svg" width=35px style="padding-right:5px;" draggable="false" title="Matplotlib">
       <img src="assets/icons/pandas-icon.svg" width=30px style="padding-right:5px;" title="Pandas">
       <img src="assets/icons/opencv.svg" width=30px style="padding-right:5px;" draggable="false" title="OpenCV">
     </p>
 
 * ### Secondary stack
-    Desktop apps, web, UI
+    Desktop apps, web, UI, API, embedded
     <p align="left">
       <img src="assets/icons/c-plusplus.svg" width=35px style="padding-right:5px;" draggable="false" title="C++">
+      <img src="assets/icons/javascript.svg" width=35px style="padding-right:5px;" draggable="false" title="Javascript">    
       <img src="assets/icons/qt.svg" width=35px style="padding-right:5px;" draggable="false" title="Qt">
       <img src="assets/icons/html-5.svg" width=35px style="padding-right:5px;" draggable="false" title="HTML">
       <img src="assets/icons/css-3.svg" width=35px style="padding-right:5px;" draggable="false" title="CSS">
-      <img src="assets/icons/javascript.svg" width=35px style="padding-right:5px;" draggable="false" title="Javascript">
-    </p>
+      <img src="assets/icons/graphql.svg" width=35px style="padding-right:5px;" title="GraphQL">
+      <img src="assets/icons/fastapi.svg" width=35px style="padding-right:5px;" title="FastAPI">
+      <img src="assets/icons/arduino.svg" width=40px style="padding-right:5px;" title="Arduino">
+  </p>
 
 
 * ### Other
@@ -75,6 +79,8 @@
 
 
 # <a id="projects" href="#projects">🧩 Open source projects </a>
+* **[Neural networks course](https://github.com/EPC-MSU/EduNet-lectures)** - NN course for postgraduate MSU students
+* **[Faculty application](https://github.com/profcomff)** - Timetable, printers, lectures, bots, services
 * **[EPC-MSU/epdetection](https://github.com/EPC-MSU/epdetection)** - Module to detect PCB components by neural network
 * **[Monitoring API](https://github.com/SmartThinksDIY/DHT11-api)** - API Server for collect data from measurements devices
 * **[PulchraBookmarks](https://chrome.google.com/webstore/detail/pulchra-bookmarks/pknkgclggganidoalifaagfjikhcdolb)** - Chrome extension for newtab
