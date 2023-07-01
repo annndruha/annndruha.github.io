@@ -7,7 +7,7 @@
 
     *2023 Moscow Institute of Physics and Technology*
 
-    For a short time I worked in a laboratory engaged in the analysis of echolocation images. My main task was to process data and apply object detection models such as YOLO.
+    For a short time I worked in a [laboratory](https://mipt.ru/rse) engaged in the analysis of echolocation images. My main task was to process data and apply object detection models such as YOLO.
 
 * ### Ideological inspirer of the faculty application
 
