@@ -3,18 +3,6 @@
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
 
-* ### DL-engineer
-
-    *2023 Moscow Institute of Physics and Technology*
-
-    For a short time I worked in a [laboratory](https://mipt.ru/rse) engaged in the analysis of echolocation images. My main task was to process data and apply object detection models such as YOLO.
-
-* ### Ideological inspirer of the faculty application
-
-    *2021-present MSU Faculty of Physics*
-
-    With friends, created a community of volunteer programmers of MSU Faculty of Physics. With team we developed [PWA application](https://app.profcomff.com/apps) for students and teachers of the faculty, which is used by almost the entire faculty. The application consists of many modules covering a large stack of technologies like: databases, servers, APIs, auth, frontend, backend, analytics.
-
 * ### Teacher of neural networks courses
 
     *2020-2022 Lomonosov Moscow State University*
@@ -27,6 +15,17 @@
 
     Working on “EyePoint P10” - a signature analysis system. EyePoint P10 aims to detect faulty electronic components on printed circuit boards. My responsibilities are write Python code, modules, fix bugs, working on architecture and use deep neural networks for electronic components recognition.
 
+* ### DL-engineer
+
+    *2023 Moscow Institute of Physics and Technology*
+
+    For a short time I worked in a [laboratory](https://mipt.ru/rse) engaged in the analysis of echolocation images. My main task was to process data and apply object detection models such as YOLO.
+
+* ### Ideological inspirer of the faculty application
+
+    *2021-present MSU Faculty of Physics*
+
+    With friends, created a community of volunteer programmers of MSU Faculty of Physics. With team we developed [PWA application](https://app.profcomff.com/apps) for students and teachers of the faculty, which is used by almost the entire faculty. The application consists of many modules covering a large stack of technologies like: databases, servers, APIs, auth, frontend, backend, analytics.
 
 # <a id="education" href="#education">🎓 Education</a>
 
