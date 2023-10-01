@@ -1,5 +1,6 @@
 <a style="display:none;">Andrey Marakulin CV</a>
 
+[Link to another page](./another-page.html).
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
 
