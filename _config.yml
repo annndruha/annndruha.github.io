@@ -7,15 +7,17 @@ fullname: Andrey Marakulin
 age: 24 y.o.
 location: Russia
 language: Russian, English
-mailto: mailto:annndruha.github@gmail.com
-cv_pdf_link: https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/pdf/cv_pdf.pdf
+bt_mailto: <a href="mailto:annndruha.github@gmail.com">Send me <strong>Mail</strong></a>
+bt_github: <a href="https://github.com/annndruha">Profile <strong>GitHub</strong></a>
+bt_pdf: <a href="https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/pdf/cv_pdf.pdf">Download <strong>CV PDF</strong></a>
 
 second_fullname: Андрей Маракулин
 second_age: 24 года
 second_location: Москва, Россия
 second_language: Русский, Английский
-second_mailto: mailto:annndruha.github@gmail.com
-second_cv_pdf_link: https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/pdf/cv_pdf.pdf
+second_bt_mailto: <a href="mailto:annndruha.github@gmail.com">Написать на <strong>почту</strong></a>
+second_bt_github: <a href="https://github.com/annndruha">Профиль <strong>GitHub</strong></a>
+second_bt_pdf: <a href="https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/pdf/cv_pdf.pdf">Скачать pdf<strong>резюме</strong></a>
 
 # DONT CHANGE THIS
 remote_theme: annndruha/minimal-resume
