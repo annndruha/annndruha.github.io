@@ -1,16 +1,23 @@
-fullname: Andrey Marakulin
 favicon: /assets/images/favicon.svg
 logo: /assets/images/photo.png
-
 show_info: true
+show_contacts: true
+
+fullname: Andrey Marakulin
 age: 24 y.o.
 location: Russia
 language: Russian, English
-
-show_contacts: true
 mailto: mailto:annndruha.github@gmail.com
 cv_pdf_link: https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/pdf/cv_pdf.pdf
 
+second_fullname: Андрей Маракулин
+second_age: 24 года
+second_location: Москва, Россия
+second_language: Русский, Английский
+second_mailto: mailto:annndruha.github@gmail.com
+second_cv_pdf_link: https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/pdf/cv_pdf.pdf
+
+# DONT CHANGE THIS
 remote_theme: annndruha/minimal-resume
 plugins:
 - jekyll-remote-theme
