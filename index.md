@@ -9,7 +9,7 @@
 
     *2020-2022 Lomonosov Moscow State University*
 
-    I teach a one-year Neural Networks course for postgraduate MSU students. [The course](https://msu.ai) covers a wide range of neural networks types, deals with solving various problems. In the second part of the course, students did implemented neural networks in their scientific work under my guidance
+    I teach a one-year Neural Networks course for postgraduate MSU students. [The course](https://msu.ai) covers a wide range of neural networks types, deals with solving various problems. In the second part of the course, students did implement neural networks in their scientific work under my guidance
 
 * ### Deep Learning Engineer, Python developer
 
@@ -23,11 +23,11 @@
 
     For a short time I worked in a [laboratory](https://mipt.ru/rse) engaged in the analysis of echolocation images. My main task was to process data and apply object detection models such as YOLO.
 
-* ### Ideological inspirer of the faculty application
+* ### Ideological mastermind of the faculty application
 
     *2021-present MSU Faculty of Physics*
 
-    With friends, created a community of volunteer programmers of MSU Faculty of Physics. With team we developed [PWA application](https://app.profcomff.com/apps) for students and teachers of the faculty, which is used by almost the entire faculty. The application consists of many modules covering a large stack of technologies like: databases, servers, APIs, auth, frontend, backend, analytics.
+    With friends, created a community of volunteer programmers of MSU Faculty of Physics. With team, we developed [PWA application](https://app.profcomff.com/apps) for students and teachers of the faculty, which is used by almost the entire faculty. The application consists of many modules covering a large stack of technologies like: databases, servers, APIs, auth, frontend, backend, analytics.
 
 # <a id="education" href="#education">🎓 Education</a>
 
@@ -40,7 +40,7 @@
 # <a id="skills" href="#skills">🛠️ Skills</a>
 
 * ### Primary stack: 
-    Python, ML/DL, Computer vision
+    Python, CV/ML/DL, Analytics, Backend
     <p align="left">
       <img src="assets/icons/python.svg" width=35px style="padding-right:5px;" draggable="false" title="Python">
       <img src="assets/icons/jupyter.svg" width=25px style="padding-right:5px;" draggable="false" title="Jupyter Notebook">
@@ -50,32 +50,34 @@
       <img src="assets/icons/matplotlib.svg" width=35px style="padding-right:5px;" draggable="false" title="Matplotlib">
       <img src="assets/icons/pandas-icon.svg" width=30px style="padding-right:5px;" draggable="false" title="Pandas">
       <img src="assets/icons/opencv.svg" width=30px style="padding-right:5px;" draggable="false" title="OpenCV">
+      <img src="assets/icons/fastapi.svg" width=35px style="padding-right:5px;" draggable="false" title="FastAPI">
     </p>
 
 * ### Secondary stack
-    Desktop apps, web, UI, API, embedded
+    SQL, Deploy, Front, UI, embedded
     <p align="left">
+      <img src="assets/icons/postgresql.svg" width=35px style="padding-right:5px;" draggable="false" title="PostgreSQL">
+      <img src="assets/icons/docker-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Docker">
       <img src="assets/icons/c-plusplus.svg" width=35px style="padding-right:5px;" draggable="false" title="C++">
       <img src="assets/icons/javascript.svg" width=35px style="padding-right:5px;" draggable="false" title="Javascript">    
       <img src="assets/icons/qt.svg" width=35px style="padding-right:5px;" draggable="false" title="Qt">
       <img src="assets/icons/html-5.svg" width=35px style="padding-right:5px;" draggable="false" title="HTML">
       <img src="assets/icons/css-3.svg" width=35px style="padding-right:5px;" draggable="false" title="CSS">
+      <img src="assets/icons/bootstrap.svg" width=35px style="padding-right:5px;" draggable="false" title="Boootstrap">
       <img src="assets/icons/graphql.svg" width=35px style="padding-right:5px;" draggable="false" title="GraphQL">
-      <img src="assets/icons/fastapi.svg" width=35px style="padding-right:5px;" draggable="false" title="FastAPI">
       <img src="assets/icons/arduino.svg" width=40px style="padding-right:5px;" draggable="false" title="Arduino">
   </p>
 
 
 * ### Other
-    CI/CD, Automatization, Scripting, SQL
+    CI/CD via GitHub Action, Services, Scripting
     <p align="left">
+      <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
+      <img src="assets/icons/bash.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
       <img src="assets/icons/git-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Git">
       <img src="assets/icons/mercurial.svg" width=35px style="padding-right:5px;" draggable="false" title="Mercurial">
-      <img src="assets/icons/github-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Github">
+      <img src="assets/icons/github-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="GitHub">
       <img src="assets/icons/gitlab.svg" width=35px style="padding-right:5px;" draggable="false" title="Gitlab">
-      <img src="assets/icons/postgresql.svg" width=35px style="padding-right:5px;" draggable="false" title="PostgreSQL">
-      <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
-      <img src="assets/icons/docker-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Docker">
     </p>
 
 
@@ -83,13 +85,13 @@
 * **[Neural networks course](https://github.com/EPC-MSU/EduNet-lectures)** - NN course for postgraduate MSU students
 * **[Faculty application](https://github.com/profcomff)** - Timetable, printers, lectures, bots, services
 * **[EPC-MSU/epdetection](https://github.com/EPC-MSU/epdetection)** - Module to detect PCB components by neural network
-* **[Github Issue Telegram Bot](https://github.com/annndruha/issue-github-telegram-bot)** - Bot for creation GitHub issue straight from Telegram group chat
+* **[GitHub Issue Telegram Bot](https://github.com/annndruha/issue-github-telegram-bot)** - Bot for creation GitHub issue straight from Telegram group chat
 * **[PulchraBookmarks](https://chrome.google.com/webstore/detail/pulchra-bookmarks/pknkgclggganidoalifaagfjikhcdolb)** - Chrome extension for newtab
 * **[Monitoring API](https://github.com/SmartThinksDIY/DHT11-api)** - API Server for collect data from measurements devices
 
 # <a id="contacts" href="#contacts">📧 Contacts</a>
 * Mail: [annndruha.github@gmail.com](mailto:annndruha.github@gmail.com)
-* Profile on [Github](https://github.com/Annndruha)
+* Profile on [GitHub](https://github.com/annndruha)
 
 </div>
 </section>
@@ -116,11 +118,11 @@
 
     *2023 Московский физико-технический институт*
   
-    Некоторое время работал в [лаборатории](https://mipt.ru/rse), занимающейся в том числе анализом эхолокационных изображений. Разрабатывал систему автоматизации для помощи оператору эхолокатора. Система автоматизации на YOLO помогала оператору быстрее и точнее распознавать объекты на снимках.
+    Некоторое время работал в [лаборатории](https://mipt.ru/rse), занимающейся, в том числе анализом эхолокационных изображений. Разрабатывал систему автоматизации для помощи оператору эхолокатора. Система автоматизации на YOLO помогала оператору быстрее и точнее распознавать объекты на снимках.
 
 * ### Один из основателей факультетского приложения
 
-    *2021-н.в. МГУ физический факультет*
+    *2021-наст. МГУ физический факультет*
 
     В команде с энтузиастами создали сообщество разработчиков-студентов. С командой разработали PWA [приложение для студентов](https://app.profcomff.com/apps), которым пользуется практически каждый студент физического факультета (~2500 человек). Приложение состоит из множества составных частей, использующих большое количество современных технологий, таких как Type-script, Fast-API, Python, Kafka, PostgreSQL и другие.
 
@@ -134,8 +136,8 @@
 
 # <a id="skills_ru" href="#skills_ru">🛠️ Навыки</a>
 
-* ### Основные навыки 
-    Python, ML/DL, Computer vision
+* ### Основные навыки
+    Python, CV/ML/DL, аналитика, бэкенд
     <p align="left">
       <img src="assets/icons/python.svg" width=35px style="padding-right:5px;" draggable="false" title="Python">
       <img src="assets/icons/jupyter.svg" width=25px style="padding-right:5px;" draggable="false" title="Jupyter Notebook">
@@ -145,32 +147,34 @@
       <img src="assets/icons/matplotlib.svg" width=35px style="padding-right:5px;" draggable="false" title="Matplotlib">
       <img src="assets/icons/pandas-icon.svg" width=30px style="padding-right:5px;" draggable="false" title="Pandas">
       <img src="assets/icons/opencv.svg" width=30px style="padding-right:5px;" draggable="false" title="OpenCV">
+      <img src="assets/icons/fastapi.svg" width=35px style="padding-right:5px;" draggable="false" title="FastAPI">
     </p>
 
 * ### Дополнительные навыки
-    Нативные приложения на Qt, Web, API, микроконтроллеры
+    SQL, нативные приложения на Qt, сайты, микроконтроллеры
     <p align="left">
+      <img src="assets/icons/postgresql.svg" width=35px style="padding-right:5px;" draggable="false" title="PostgreSQL">
+      <img src="assets/icons/docker-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Docker">
       <img src="assets/icons/c-plusplus.svg" width=35px style="padding-right:5px;" draggable="false" title="C++">
       <img src="assets/icons/javascript.svg" width=35px style="padding-right:5px;" draggable="false" title="Javascript">    
       <img src="assets/icons/qt.svg" width=35px style="padding-right:5px;" draggable="false" title="Qt">
       <img src="assets/icons/html-5.svg" width=35px style="padding-right:5px;" draggable="false" title="HTML">
       <img src="assets/icons/css-3.svg" width=35px style="padding-right:5px;" draggable="false" title="CSS">
+      <img src="assets/icons/bootstrap.svg" width=35px style="padding-right:5px;" draggable="false" title="Boootstrap">
       <img src="assets/icons/graphql.svg" width=35px style="padding-right:5px;" draggable="false" title="GraphQL">
-      <img src="assets/icons/fastapi.svg" width=35px style="padding-right:5px;" draggable="false" title="FastAPI">
       <img src="assets/icons/arduino.svg" width=40px style="padding-right:5px;" draggable="false" title="Arduino">
   </p>
 
 
 * ### Другое
-    CI/CD, Автоматизация, Оси, БД, SQL
+    CI/CD через GitHub Action, оси, автоматизация
     <p align="left">
+      <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
+      <img src="assets/icons/bash.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
       <img src="assets/icons/git-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Git">
       <img src="assets/icons/mercurial.svg" width=35px style="padding-right:5px;" draggable="false" title="Mercurial">
-      <img src="assets/icons/github-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Github">
+      <img src="assets/icons/github-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="GitHub">
       <img src="assets/icons/gitlab.svg" width=35px style="padding-right:5px;" draggable="false" title="Gitlab">
-      <img src="assets/icons/postgresql.svg" width=35px style="padding-right:5px;" draggable="false" title="PostgreSQL">
-      <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
-      <img src="assets/icons/docker-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Docker">
     </p>
 
 
@@ -184,7 +188,7 @@
 
 # <a id="contacts_ru" href="#contacts_ru">📧 Контакты</a>
 * Почта: [annndruha.github@gmail.com](mailto:annndruha.github@gmail.com)
-* Профиль на [Github](https://github.com/Annndruha)
+* Профиль на [GitHub](https://github.com/annndruha)
 
 </div>
 </section>
