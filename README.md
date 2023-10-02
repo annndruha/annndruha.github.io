@@ -1,3 +1,12 @@
+```diff
+- Repo updated to 2.X.X multi-language version.
+# If your resume is broked, and you want use old version,
+# in YOUR_REPO/_config.yml change this line
+- remote_theme: annndruha/minimal-resume
+# to this:
+- remote_theme: annndruha/minimal-resume@v1.0.0
+```
+
 # Fork this repo for create your own web CV. ([Example](https://cv.annndruha.space/))
 Launch your resume site without server on github pages! Optional need a domain name.
 
