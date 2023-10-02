@@ -97,7 +97,10 @@
 * Profile on [Github](https://github.com/Annndruha)
 
 </div>
+
 </section>
+
+
 <section id="second_content">
 <a id="to_main_lang_href" href="?lang=main">Switch to english</a>
 <p>
