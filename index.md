@@ -97,10 +97,10 @@
 * Profile on [Github](https://github.com/Annndruha)
 
 </div>
-
-[//]: # (========================================================== Start of main language markdown block)
-
 </section>
+</section>
+</section>
+
 <!-- ============================================================== Start of second language block -->
 <!-- ============================================================== Delete all lines below if you want -->
 <section id="second_content">
