@@ -1,7 +1,7 @@
 favicon: /assets/images/favicon.svg
 logo: /assets/images/photo.png
 
-show_branding: true
+show_branding: false
 branding_link: https://annndruha.space
 branding_link_text: annndruha.space
 branding_favicon: https://annndruha.space/favicon.svg
