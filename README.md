@@ -26,7 +26,7 @@ This is **multi-language** resume. For only one language use [old version](https
   * Change [CNAME-file](https://github.com/annndruha/annndruha.github.io/blob/main/CNAME) in fork with your subdomain: `cv.<example.com>`
 * Change left side with your information in [_config.yml](./_config.yml) for both languages.
 * Change [index.md](./index.md) with you information for both languages.
-  > Be careful and don't delete languages separators. You may use [template](https://github.com/annndruha/annndruha.github.io/blob/main/index_multi_language_template.md). Just delete my `index.md` and rename `index_multi_language_template.md`
+  > Be careful and don't delete languages separators. You may use `template`. Just delete my `index.md` and rename `index_template....md`
 * Change `/assets/images/photo.png` and pdf link
 * This repo hasn't got a pdf converter, manually update the pdf's files.
 * Wait a minute for GitHub-actions auto build and enjoy your site 😋!

@@ -22,7 +22,7 @@ second_bt_mailto: <a href="mailto:annndruha.github@gmail.com">Написать �
 second_bt_github: <a href="https://github.com/annndruha">Профиль <strong>GitHub</strong></a>
 second_bt_pdf: <a href="https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/pdf/marakulin_ru.pdf">Скачать резюме<strong>PDF</strong></a>
 
-show_branding: false
+show_branding: true
 branding_link: https://annndruha.space
 branding_link_text: annndruha.space
 branding_favicon: https://annndruha.space/favicon.svg
