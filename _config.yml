@@ -27,6 +27,6 @@ second_bt_github: <a href="https://github.com/annndruha">Профиль <strong>
 second_bt_pdf: <a href="https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/pdf/marakulin_ru.pdf">Скачать резюме<strong>PDF</strong></a>
 
 
-remote_theme: annndruha/minimal-resume@main
+remote_theme: annndruha/minimal-resume
 plugins:
 - jekyll-remote-theme
