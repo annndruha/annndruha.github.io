@@ -1,6 +1,11 @@
+<!-- ============================================================== This is section separater below -->
+<!-- ============================================================== Don't delete it. But you can change link text -->
+<!-- ============================================================== It used for main page langauge -->
 <section id="content">
-<a href="?lang=ru">Переключить на русский</a>
+<a id="main_lang_href" href="?lang=main">Переключить на русский</a>
 <div markdown="1">
+[//]: # (========================================================== Start of main language markdown block)
+
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
 
@@ -90,12 +95,15 @@
 * Mail: [annndruha.github@gmail.com](mailto:annndruha.github@gmail.com)
 * Profile on [Github](https://github.com/Annndruha)
 
+[//]: # (========================================================== End of main language markdown block)
 </div>
 </section>
-
+<!-- ============================================================== Start of second language block -->
+<!-- ============================================================== Delete all lines below if you want -->
 <section id="second_content">
-<a href="?lang=en">Switch to english</a>
+<a id="second_lang_href" href="?lang=second">Switch to english</a>
 <div markdown="1">
+[//]: # (========================================================== Start of second language markdown block)
 
 # Это вторая страница которая видна только избранным
 
