@@ -1,6 +1,6 @@
 <section id="content">
-
 <a href="?lang=ru">Переключить на русский</a>
+<div markdown="1">
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
 
@@ -90,14 +90,16 @@
 * Mail: [annndruha.github@gmail.com](mailto:annndruha.github@gmail.com)
 * Profile on [Github](https://github.com/Annndruha)
 
+</div>
 </section>
 
 <section id="second_content">
-
 <a href="?lang=en">Switch to english</a>
+<div markdown="1">
 
 # Это вторая страница которая видна только избранным
 
 Она написана на чистейшем великорусском языке
 
+</div>
 </section>
