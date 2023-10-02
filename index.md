@@ -83,9 +83,9 @@
 * **[Neural networks course](https://github.com/EPC-MSU/EduNet-lectures)** - NN course for postgraduate MSU students
 * **[Faculty application](https://github.com/profcomff)** - Timetable, printers, lectures, bots, services
 * **[EPC-MSU/epdetection](https://github.com/EPC-MSU/epdetection)** - Module to detect PCB components by neural network
-* **[Monitoring API](https://github.com/SmartThinksDIY/DHT11-api)** - API Server for collect data from measurements devices
-* **[PulchraBookmarks](https://chrome.google.com/webstore/detail/pulchra-bookmarks/pknkgclggganidoalifaagfjikhcdolb)** - Chrome extension for newtab
 * **[Github Issue Telegram Bot](https://github.com/annndruha/issue-github-telegram-bot)** - Bot for creation GitHub issue straight from Telegram group chat
+* **[PulchraBookmarks](https://chrome.google.com/webstore/detail/pulchra-bookmarks/pknkgclggganidoalifaagfjikhcdolb)** - Chrome extension for newtab
+* **[Monitoring API](https://github.com/SmartThinksDIY/DHT11-api)** - API Server for collect data from measurements devices
 
 # <a id="contacts" href="#contacts">📧 Contacts</a>
 * Mail: [annndruha.github@gmail.com](mailto:annndruha.github@gmail.com)
