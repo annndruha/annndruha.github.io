@@ -3,6 +3,7 @@ logo: /assets/images/photo.png
 show_info: true
 show_contacts: true
 
+main_language_code: en
 fullname: Andrey Marakulin
 age: 24 y.o.
 location: Russia
@@ -11,6 +12,7 @@ bt_mailto: <a href="mailto:annndruha.github@gmail.com">Send me <strong>Mail</str
 bt_github: <a href="https://github.com/annndruha">Profile <strong>GitHub</strong></a>
 bt_pdf: <a href="https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/pdf/cv_pdf.pdf">Download <strong>CV PDF</strong></a>
 
+second_language_code: ru
 second_fullname: Андрей Маракулин
 second_age: 24 года
 second_location: Москва, Россия
