@@ -1,9 +1,4 @@
-<!-- =========================================== -->
-<!-- This is section separator for main language -->
 <section id="content">
-<!-- ===========Don't delete it================= -->
-<!-- =========================================== -->
-
 <a href="?lang=ru">Переключить на русский</a>
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
@@ -94,16 +89,8 @@
 * Mail: [annndruha.github@gmail.com](mailto:annndruha.github@gmail.com)
 * Profile on [Github](https://github.com/Annndruha)
 
-<!-- =========================================== -->
-<!-- This is END of main section separator ===== -->
-<!-- ===========Don't delete it================= -->
 </section>
-<!-- =========================================== -->
-<!--This is section separator for second language-->
-<!-- ==Delete all text below if you want======== -->
 <section id="second_content">
-<!-- =========================================== -->
-    
 <a href="?lang=en">Switch to english</a>
 
 # Это вторая страница которая видна только избранным
