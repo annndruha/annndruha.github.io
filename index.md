@@ -98,33 +98,33 @@
 <p></p>
 <div markdown="1">
 
-# <a id="works" href="#works">👨🏻‍💻 Опыт работы </a>
+# <a id="works" href="#works_ru">👨🏻‍💻 Опыт работы </a>
 
-* ### Teacher of neural networks courses
+* ### Преподаватель курса по нейронным сетям
 
-    *2020-2022 Lomonosov Moscow State University*
+    *2020-2022 МГУ имени М.В.Ломоносова*
 
-    I teach a one-year Neural Networks course for postgraduate MSU students. [The course](https://msu.ai) covers a wide range of neural networks types, deals with solving various problems. In the second part of the course, students did implemented neural networks in their scientific work under my guidance
+    Преподавал годовой курс по нейронным сетям магистрам и аспирантам МГУ. [Курс](https://msu.ai) охватывал широкий спектр типов нейронных сетей и методов их обучения, а так же обширную практику. Во второй половине года выступал консультантом при написании аспирантами и магистрами научных статей с использованием нейронных сетей.
 
-* ### Deep Learning Engineer, Python developer
+* ### Python-разработчик, инженер DL
 
-    *2020-2022 [Center of Engineering Physics](https://engineering.phys.msu.ru/ru/) at Lomonosov Moscow State University*
+    *2020-2022 [Лаборатория инженерной физики МГУ](https://engineering.phys.msu.ru/ru/)*
 
-    Working on “EyePoint P10” - a signature analysis system. EyePoint P10 aims to detect faulty electronic components on printed circuit boards. My responsibilities are write Python code, modules, fix bugs, working on architecture and use deep neural networks for electronic components recognition.
+    Разрабатывал ПО для системы сигнатурного анализа компонентов на печатных платах. Написал модуль распознавания основанный на нейронных сетях, улучшал софт и исправлял ошибки системы, в том числе ошибки hardware-части. ПО было написано на Python с фреймворком Qt.
 
-* ### DL-engineer
+* ### Deep Learning инженер
 
-    *2023 Moscow Institute of Physics and Technology*
+    *2023 Московский физико-технический институт*
+  
+    Некоторое время работал в [лаборатории](https://mipt.ru/rse), занимающейся в том числе анализом эхолокационных изображений. Разрабатывал систему автоматизации для помощи оператору эхолокатора. Система автоматизации на YOLO помогала оператору быстрее и точнее распознавать объекты на снимках.
 
-    For a short time I worked in a [laboratory](https://mipt.ru/rse) engaged in the analysis of echolocation images. My main task was to process data and apply object detection models such as YOLO.
+* ### Один из основателей факультетского приложения
 
-* ### Ideological inspirer of the faculty application
+    *2021-н.в. МГУ физический факультет*
 
-    *2021-present MSU Faculty of Physics*
+    В команде с энтузиастами создали сообщество разработчиков-студентов. С командой разработали PWA [приложение для студентов](https://app.profcomff.com/apps), которым пользуется практически каждый студент физического факультета (~2500 человек). Приложение состоит из множества составных частей, использующих большое количество современных технологий, таких как Type-script, Fast-API, Python, Kafka, PostgreSQL и другие.
 
-    With friends, created a community of volunteer programmers of MSU Faculty of Physics. With team we developed [PWA application](https://app.profcomff.com/apps) for students and teachers of the faculty, which is used by almost the entire faculty. The application consists of many modules covering a large stack of technologies like: databases, servers, APIs, auth, frontend, backend, analytics.
-
-# <a id="education" href="#education">🎓 Образование</a>
+# <a id="education" href="#education_ru">🎓 Образование</a>
 
 * ### (МГУ) Московский государственный университет имени М.В.Ломоносова
     (2018-2022, Москва) Физический факультет, отделение ядерной физики
@@ -132,7 +132,7 @@
 * ### (МФТИ) Московский физико-технический институт
     (2022-2024, Москва) Физтех-школа прикладной математики и информатики
 
-# <a id="skills" href="#skills">🛠️ Навыки</a>
+# <a id="skills" href="#skills_ru">🛠️ Навыки</a>
 
 * ### Основные навыки 
     Python, ML/DL, Computer vision
@@ -148,7 +148,7 @@
     </p>
 
 * ### Дополнительные навыки
-    Нативные приложения, web, API, микроконтроллеры
+    Нативные приложения на Qt, Web, API, микроконтроллеры
     <p align="left">
       <img src="assets/icons/c-plusplus.svg" width=35px style="padding-right:5px;" draggable="false" title="C++">
       <img src="assets/icons/javascript.svg" width=35px style="padding-right:5px;" draggable="false" title="Javascript">    
@@ -174,15 +174,15 @@
     </p>
 
 
-# <a id="projects" href="#projects">🧩 Публичные проекты </a>
+# <a id="projects" href="#projects_ru">🧩 Публичные проекты </a>
 * **[Neural networks course](https://github.com/EPC-MSU/EduNet-lectures)** - Курс для аспирантов и магистров МГУ
 * **[Faculty application](https://github.com/profcomff)** - Приложение для студентов физического факультета МГУ
 * **[EPC-MSU/epdetection](https://github.com/EPC-MSU/epdetection)** - Модуль распознавания компонентов на печатной плате
-* **[Monitoring API](https://github.com/SmartThinksDIY/DHT11-api)** - API-сервер для сбора данных с датчиков температуры
-* **[PulchraBookmarks](https://chrome.google.com/webstore/detail/pulchra-bookmarks/pknkgclggganidoalifaagfjikhcdolb)** - Расширение-закладки для Chrome
 * **[Github Issue Telegram Bot](https://github.com/annndruha/issue-github-telegram-bot)** - Бот для создания issue в GitHub из чата в Telegram
+* **[PulchraBookmarks](https://chrome.google.com/webstore/detail/pulchra-bookmarks/pknkgclggganidoalifaagfjikhcdolb)** - Расширение-закладки для Chrome
+* **[Monitoring API](https://github.com/SmartThinksDIY/DHT11-api)** - API-сервер для сбора данных с датчиков температуры
 
-# <a id="contacts" href="#contacts">📧 Контакты</a>
+# <a id="contacts" href="#contacts_ru">📧 Контакты</a>
 * Почта: [annndruha.github@gmail.com](mailto:annndruha.github@gmail.com)
 * Профиль на [Github](https://github.com/Annndruha)
 
