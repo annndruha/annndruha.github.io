@@ -97,7 +97,9 @@
 * Profile on [Github](https://github.com/Annndruha)
 
 [//]: # (========================================================== End of main language markdown block)
+
 </div>
+
 </section>
 <!-- ============================================================== Start of second language block -->
 <!-- ============================================================== Delete all lines below if you want -->
@@ -112,4 +114,5 @@
 Она написана на чистейшем великорусском языке
 
 </div>
+
 </section>
