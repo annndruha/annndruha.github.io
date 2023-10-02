@@ -1,12 +1,7 @@
-<!-- ============================================================== This is section separater below -->
-<!-- ============================================================== Don't delete it. But you can change link text -->
-<!-- ============================================================== It used for main page langauge -->
 <section id="content">
 <a id="to_second_lang_href" href="?lang=second">Переключить на русский</a>
 <p></p>
 <div markdown="1">
-[//]: # (========================================================== Start of main language markdown block)
-
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
 
@@ -96,21 +91,16 @@
 * Mail: [annndruha.github@gmail.com](mailto:annndruha.github@gmail.com)
 * Profile on [Github](https://github.com/Annndruha)
 
-[//]: # (========================================================== End of main language markdown block)
 </div>
 </section>
-<!-- ============================================================== Start of second language block -->
-<!-- ============================================================== Delete all lines below if you want -->
 <section id="second_content">
 <a id="to_main_lang_href" href="?lang=main">Switch to english</a>
 <p></p>
 <div markdown="1">
-[//]: # (========================================================== Start of second language markdown block)
 
-# Это вторая страница которая видна только избранным
+# Пока что резюме не переведено на русский
 
-Она написана на чистейшем великорусском языке
+Но когда-нибудь обязательно
 
-[//]: # (========================================================== End of second language markdown block)
 </div>
 </section>

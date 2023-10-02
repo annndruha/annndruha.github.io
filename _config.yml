@@ -22,6 +22,6 @@ second_bt_github: <a href="https://github.com/annndruha">Профиль <strong>
 second_bt_pdf: <a href="https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/pdf/cv_pdf.pdf">Скачать резюме<strong>PDF</strong></a>
 
 # DONT CHANGE THIS
-remote_theme: annndruha/minimal-resume
+remote_theme: annndruha/minimal-resume@v2.0.0
 plugins:
 - jekyll-remote-theme
