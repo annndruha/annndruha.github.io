@@ -98,9 +98,11 @@
 
 </div>
 
+[//]: # (========================================================== Start of main language markdown block)
+
 </section>
-
-
+<!-- ============================================================== Start of second language block -->
+<!-- ============================================================== Delete all lines below if you want -->
 <section id="second_content">
 <a id="to_main_lang_href" href="?lang=main">Switch to english</a>
 <p>
