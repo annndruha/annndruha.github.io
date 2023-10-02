@@ -12,7 +12,7 @@ show_contacts: true
 main_language_code: en
 fullname: Andrey Marakulin
 age: 24 y.o.
-location: Russia
+location: Moscow, Russia
 language: Russian, English
 bt_mailto: <a href="mailto:annndruha.github@gmail.com">Send me <strong>Mail</strong></a>
 bt_github: <a href="https://github.com/annndruha">Profile <strong>GitHub</strong></a>
