@@ -1,6 +1,4 @@
 <section id="content">
-<a id="to_second_lang_href" href="?lang=second">Переключить на русский</a>
-<p></p>
 <div markdown="1">
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
@@ -96,8 +94,6 @@
 </div>
 </section>
 <section id="second_content">
-<a id="to_main_lang_href" href="?lang=main">Switch to english</a>
-<p></p>
 <div markdown="1">
 
 # <a id="works_ru" href="#works_ru">👨🏻‍💻 Опыт работы </a>
