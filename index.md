@@ -1,5 +1,12 @@
-<a style="display:none;">Andrey Marakulin CV</a>
-
+[//]: # (=============================================================)
+[//]: # (=================This is section separater===================)
+[//]: # (=================Don't delete it=============================)
+[//]: # (=============================================================)
+[//]: # (=================This is section separater===================)
+[//]: # (=================If you don't need second language===========)
+[//]: # (=================Just delete all lines below===========)
+<section id="content">
+    
 [Link to another page](./another-page.html).
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
@@ -89,3 +96,22 @@
 # <a id="contacts" href="#contacts">📧 Contacts</a>
 * Mail: [annndruha.github@gmail.com](mailto:annndruha.github@gmail.com)
 * Profile on [Github](https://github.com/Annndruha)
+
+</section>
+<section id="second_content">
+
+# Это вторая страница которая видна только избранным
+
+* ### Primary stack: 
+    Python, ML/DL, Computer vision
+    <p align="left">
+      <img src="assets/icons/python.svg" width=35px style="padding-right:5px;" draggable="false" title="Python">
+      <img src="assets/icons/jupyter.svg" width=25px style="padding-right:5px;" draggable="false" title="Jupyter Notebook">
+      <img src="assets/icons/pytorch.svg" width=35px style="padding-right:5px;" draggable="false" title="PyTorch">
+      <img src="assets/icons/tensorflow.svg" width=35px style="padding-right:5px;" draggable="false" title="TensorFlow">
+      <img src="assets/icons/numpy-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="NumPy">
+      <img src="assets/icons/matplotlib.svg" width=35px style="padding-right:5px;" draggable="false" title="Matplotlib">
+      <img src="assets/icons/pandas-icon.svg" width=30px style="padding-right:5px;" draggable="false" title="Pandas">
+      <img src="assets/icons/opencv.svg" width=30px style="padding-right:5px;" draggable="false" title="OpenCV">
+    </p>
+</section>
