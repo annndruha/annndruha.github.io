@@ -1,5 +1,5 @@
 <!-- ============================================================== This is section separater below -->
-<!-- ============================================================== Don't delete it. But you can change link text -->
+<!-- ============================================================== Don't delete it! -->
 <!-- ============================================================== It used for main page langauge -->
 <section id="content">
 <div markdown="1">
@@ -16,7 +16,7 @@ Some text in main language
 </div>
 </section>
 <!-- ============================================================== Start of second language block -->
-<!-- ============================================================== Delete all lines below if you want -->
+<!-- ============================================================== Don't delete separater -->
 <section id="second_content">
 <div markdown="1">
 [//]: # (========================================================== Start of second language markdown block)

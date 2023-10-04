@@ -1,5 +1,5 @@
 <!-- ============================================================== This is section separater below -->
-<!-- ============================================================== Don't delete it. But you can change link text -->
+<!-- ============================================================== Don't delete it. But you can change link text. (But not link) -->
 <!-- ============================================================== It used for main page langauge -->
 <section id="content">
 <a id="to_second_lang_href" href="?lang=second">Switch to second</a>
@@ -18,7 +18,6 @@ Some text in main language
 </div>
 </section>
 <!-- ============================================================== Start of second language block -->
-<!-- ============================================================== Delete all lines below if you want -->
 <section id="second_content">
 <a id="to_main_lang_href" href="?lang=main">Switch to english</a>
 <p></p>
