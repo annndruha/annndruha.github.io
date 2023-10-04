@@ -25,10 +25,11 @@ This is **multi-language** resume. For only one language use [old version](https
   * Go to `Pages/Custom domain` enter you `cv.<example.com>` (And enforce HTTPS)
   * Change [CNAME-file](https://github.com/annndruha/annndruha.github.io/blob/main/CNAME) in fork with your subdomain: `cv.<example.com>`
 * Change left side with your information in [_config.yml](./_config.yml) for both languages.
+  * There are `show_branding` flag for show or disable header.
 * Change [index.md](./index.md) with you information for both languages.
-  > Be careful and don't delete languages separators. You may use `template`. Just delete my `index.md` and rename `index_template....md`
-* Change `/assets/images/photo.png` and pdf link
-* This repo hasn't got a pdf converter, manually update the pdf's files.
+  > Be careful and don't delete languages separators. You may use files from templates. Just replace `index.md` with one of templates.
+* Change `/assets/images/photo.png` and pdf's links.
+* This repo hasn't got a pdf converter, manually update the pdf's files in `/assets/pdf`.
 * Wait a minute for GitHub-actions auto build and enjoy your site 😋!
 
 

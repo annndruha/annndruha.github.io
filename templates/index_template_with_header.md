@@ -2,8 +2,6 @@
 <!-- ============================================================== Don't delete it. But you can change link text -->
 <!-- ============================================================== It used for main page langauge -->
 <section id="content">
-<a id="to_second_lang_href" href="?lang=second">Switch to second</a>
-<p></p>
 <div markdown="1">
 [//]: # (========================================================== Start of main language markdown block)
 
@@ -20,8 +18,6 @@ Some text in main language
 <!-- ============================================================== Start of second language block -->
 <!-- ============================================================== Delete all lines below if you want -->
 <section id="second_content">
-<a id="to_main_lang_href" href="?lang=main">Switch to english</a>
-<p></p>
 <div markdown="1">
 [//]: # (========================================================== Start of second language markdown block)
 
