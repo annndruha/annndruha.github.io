@@ -11,7 +11,7 @@ location: Moscow, Russia
 language: Russian, English
 bt_mailto: <a href="mailto:annndruha.github@gmail.com">Send me <strong>Mail</strong></a>
 bt_github: <a href="https://github.com/annndruha">Profile <strong>GitHub</strong></a>
-bt_pdf: <a href="https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/pdf/marakulin_en.pdf">Download <strong>CV PDF</strong></a>
+bt_pdf: <a href="https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/assets/pdf/marakulin_en.pdf">Download <strong>CV PDF</strong></a>
 
 second_language_code: ru
 second_fullname: Андрей Маракулин
@@ -20,7 +20,7 @@ second_location: Москва, Россия
 second_language: Русский, Английский
 second_bt_mailto: <a href="mailto:annndruha.github@gmail.com">Написать на <strong>Почту</strong></a>
 second_bt_github: <a href="https://github.com/annndruha">Профиль <strong>GitHub</strong></a>
-second_bt_pdf: <a href="https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/pdf/marakulin_ru.pdf">Скачать резюме<strong>PDF</strong></a>
+second_bt_pdf: <a href="https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/assets/pdf/marakulin_ru.pdf">Скачать резюме<strong>PDF</strong></a>
 
 show_branding: true
 branding_link: https://annndruha.space
