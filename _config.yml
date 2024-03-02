@@ -6,7 +6,7 @@ show_contacts: true
 
 main_language_code: en
 fullname: Andrey Marakulin
-age: 24 y.o.
+age: 25 y.o.
 location: Moscow, Russia
 language: Russian, English
 bt_mailto: <a href="mailto:annndruha.github@gmail.com">Send me <strong>Mail</strong></a>
@@ -15,7 +15,7 @@ bt_pdf: <a href="https://raw.githubusercontent.com/Annndruha/annndruha.github.io
 
 second_language_code: ru
 second_fullname: Андрей Маракулин
-second_age: 24 года
+second_age: 25 лет
 second_location: Москва, Россия
 second_language: Русский, Английский
 second_bt_mailto: <a href="mailto:annndruha.github@gmail.com">Написать на <strong>Почту</strong></a>
