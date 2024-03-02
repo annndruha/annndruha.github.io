@@ -72,8 +72,8 @@
     <p align="left">
       <img src="assets/icons/jenkins.svg" width=35px style="padding-right:5px;" draggable="false" title="Jenkins">
       <img src="assets/icons/vagrant.svg" width=35px style="padding-right:5px;" draggable="false" title="Vagrant">
-      <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;" draggable="false" title="Bash">
-      <img src="assets/icons/bash.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
+      <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
+      <img src="assets/icons/bash.svg" width=35px style="padding-right:5px;" draggable="false" title="Bash">
       <img src="assets/icons/git-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Git">
       <img src="assets/icons/mercurial.svg" width=35px style="padding-right:5px;" draggable="false" title="Mercurial">
       <img src="assets/icons/github-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="GitHub">
