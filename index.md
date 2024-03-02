@@ -1,7 +1,7 @@
 <section id="content">
 <div markdown="1">
 
-# <a id="works" href="#works">👨🏻‍💻 Work experience</a>
+# <a id="works" href="#works">👨🏻‍💻 Work experience (4 years)</a>
 
 * ### Teacher of neural networks courses
 
@@ -11,7 +11,7 @@
 
 * ### Deep Learning Engineer, Python developer
 
-    *2020-2022 [Center of Engineering Physics](https://engineering.phys.msu.ru/ru/) at Lomonosov Moscow State University*
+    *2020-2024 [Center of Engineering Physics](https://engineering.phys.msu.ru/ru/) at Lomonosov Moscow State University*
 
     Working on “EyePoint P10” - a signature analysis system. EyePoint P10 aims to detect faulty electronic components on printed circuit boards. My responsibilities are write Python code, modules, fix bugs, working on architecture and use deep neural networks for electronic components recognition.
 
@@ -23,7 +23,7 @@
 
 * ### Ideological mastermind of the faculty application
 
-    *2021-present MSU Faculty of Physics*
+    *2021-2023 MSU Faculty of Physics*
 
     With friends, created a community of volunteer programmers of MSU Faculty of Physics. With team, we developed [PWA application](https://app.profcomff.com/apps) for students and teachers of the faculty, which is used by almost the entire faculty. The application consists of many modules covering a large stack of technologies like: databases, servers, APIs, auth, frontend, backend, analytics.
 
@@ -70,7 +70,10 @@
 * ### Other
     CI/CD via GitHub Action, Services, Scripting
     <p align="left">
-      <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
+      <img src="assets/icons/jenkins.svg" width=35px style="padding-right:5px;" draggable="false" title="Jenkins">
+      <img src="assets/icons/vagrant.svg" width=35px style="padding-right:5px;" draggable="false" title="Vagrant">
+      <img src="assets/icons/virtualbox.svg" width=35px style="padding-right:5px;" draggable="false" title="Virtualbox">
+      <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;" draggable="false" title="Bash">
       <img src="assets/icons/bash.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
       <img src="assets/icons/git-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Git">
       <img src="assets/icons/mercurial.svg" width=35px style="padding-right:5px;" draggable="false" title="Mercurial">
@@ -96,7 +99,7 @@
 <section id="second_content">
 <div markdown="1">
 
-# <a id="works_ru" href="#works_ru">👨🏻‍💻 Опыт работы </a>
+# <a id="works_ru" href="#works_ru">👨🏻‍💻 Опыт работы (4 года)</a>
 
 * ### Преподаватель курса по нейронным сетям
 
@@ -106,7 +109,7 @@
 
 * ### Python-разработчик, инженер DL
 
-    *2020-2022 [Лаборатория инженерной физики МГУ](https://engineering.phys.msu.ru/ru/)*
+    *2020-2024 [Лаборатория инженерной физики МГУ](https://engineering.phys.msu.ru/ru/)*
 
     Разрабатывал ПО для системы сигнатурного анализа компонентов на печатных платах. Написал модуль распознавания основанный на нейронных сетях, улучшал софт и исправлял ошибки системы, в том числе ошибки hardware-части. ПО было написано на Python с фреймворком Qt.
 
@@ -118,7 +121,7 @@
 
 * ### Один из основателей факультетского приложения
 
-    *2021-наст. МГУ физический факультет*
+    *2021-2023 МГУ физический факультет*
 
     В команде с энтузиастами создали сообщество разработчиков-студентов. С командой разработали PWA [приложение для студентов](https://app.profcomff.com/apps), которым пользуется практически каждый студент физического факультета (~2500 человек). Приложение состоит из множества составных частей, использующих большое количество современных технологий, таких как Type-script, Fast-API, Python, Kafka, PostgreSQL и другие.
 
@@ -165,6 +168,9 @@
 * ### Другое
     CI/CD через GitHub Action, оси, автоматизация
     <p align="left">
+      <img src="assets/icons/jenkins.svg" width=35px style="padding-right:5px;" draggable="false" title="Jenkins">
+      <img src="assets/icons/vagrant.svg" width=35px style="padding-right:5px;" draggable="false" title="Vagrant">
+      <img src="assets/icons/virtualbox.svg" width=35px style="padding-right:5px;" draggable="false" title="Virtualbox">
       <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
       <img src="assets/icons/bash.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
       <img src="assets/icons/git-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Git">
