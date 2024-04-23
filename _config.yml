@@ -25,7 +25,7 @@ second_bt_pdf: <a href="https://raw.githubusercontent.com/Annndruha/annndruha.gi
 show_branding: true
 branding_link: https://annndruha.space
 branding_link_text: annndruha.space
-branding_favicon: https://annndruha.space/favicon.svg
+branding_favicon: https://annndruha.space/icons/favicon.svg
 
 remote_theme: annndruha/minimal-resume@v2.1.0
 plugins:
