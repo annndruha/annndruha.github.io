@@ -1,7 +1,7 @@
 <section id="content">
 <div markdown="1">
 
-# <a id="works" href="#works">👨🏻‍💻 Work experience (4 years)</a>
+# <a id="works" href="#works">👨🏻‍💻 Work experience</a>
 
 * ### Teacher of neural networks courses
 
@@ -98,7 +98,7 @@
 <section id="second_content">
 <div markdown="1">
 
-# <a id="works_ru" href="#works_ru">👨🏻‍💻 Опыт работы (4 года)</a>
+# <a id="works_ru" href="#works_ru">👨🏻‍💻 Опыт работы</a>
 
 * ### Преподаватель курса по нейронным сетям
 
