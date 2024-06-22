@@ -37,4 +37,4 @@ This is **multi-language** resume. For only one language use [old version](https
 
 # Extra
 
-This site required page theme [minimal-resume](https://github.com/Annndruha/minimal-resume) which is in the [_config.yml](./_config.yml) as remote_theme.
+This site uses theme [minimal-resume](https://github.com/Annndruha/minimal-resume) which is in the [_config.yml](./_config.yml) as remote_theme. Don't remove theme line from config.yml.
