@@ -90,6 +90,7 @@
 * **[Monitoring API](https://github.com/SmartThinksDIY/DHT11-api)** - API Server for collect data from measurements devices
 
 # <a id="contacts" href="#contacts">📧 Contacts</a>
+* Telegram: [@annndruha](https://t.me/annndruha)
 * Mail: [annndruha.github@gmail.com](mailto:annndruha.github@gmail.com)
 * Profile on [GitHub](https://github.com/annndruha)
 
@@ -187,6 +188,7 @@
 * **[Monitoring API](https://github.com/SmartThinksDIY/DHT11-api)** - API-сервер для сбора данных с датчиков температуры
 
 # <a id="contacts_ru" href="#contacts_ru">📧 Контакты</a>
+* Телеграм: [@annndruha](https://t.me/annndruha)
 * Почта: [annndruha.github@gmail.com](mailto:annndruha.github@gmail.com)
 * Профиль на [GitHub](https://github.com/annndruha)
 
