@@ -13,8 +13,13 @@
 
     *2020-2024 [Center of Engineering Physics](https://engineering.phys.msu.ru/ru/) at Lomonosov Moscow State University*
 
-    Working on “EyePoint P10” - a signature analysis system. EyePoint P10 aims to detect faulty electronic components on printed circuit boards. My responsibilities are write Python code, modules, fix bugs, working on architecture and use deep neural networks for electronic components recognition.
+    Working on “EyePoint P10” - a signature analysis system. EyePoint P10 aims to detect faulty electronic components on printed circuit boards. Deployed a cluster of virtual machines for internal build and testing pipelines (Jenkins) - an analogue of GitHub Actions.
+  
+* ### Data Scientist and backend-developer
+    *2023-2024 [Business process audit](https://bp-audit.tech/)*
 
+    Developed an applied neural network solution for monitoring office premises using CCTV cameras. Carried out the full development cycle (except for the frontend): from collecting and annotate data to deploying the real-time backend of the trained model.
+  
 * ### DL-engineer
 
     *2023 Moscow Institute of Physics and Technology*
@@ -68,16 +73,17 @@
 
 
 * ### Other
-    CI/CD via GitHub Action, Services, Scripting
+    CI/CD, DevOps, Services, Scripting
     <p align="left">
       <img src="assets/icons/jenkins.svg" width=35px style="padding-right:5px;" draggable="false" title="Jenkins">
+       <img src="assets/icons/virtualbox.svg" width=35px style="padding-right:5px;" draggable="false" title="VirtualBox">
       <img src="assets/icons/vagrant.svg" width=35px style="padding-right:5px;" draggable="false" title="Vagrant">
       <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
       <img src="assets/icons/bash.svg" width=35px style="padding-right:5px;" draggable="false" title="Bash">
       <img src="assets/icons/git-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Git">
       <img src="assets/icons/mercurial.svg" width=35px style="padding-right:5px;" draggable="false" title="Mercurial">
       <img src="assets/icons/github-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="GitHub">
-      <img src="assets/icons/gitlab.svg" width=35px style="padding-right:5px;" draggable="false" title="Gitlab">
+      <img src="assets/icons/gitlab.svg" width=35px style="padding-right:5px;" draggable="false" title="GitLab">
     </p>
 
 
@@ -155,7 +161,7 @@
     </p>
 
 * ### Дополнительные навыки
-    SQL, нативные приложения на Qt, сайты, микроконтроллеры
+    SQL, GrpahQL, Qt, сайты, микроконтроллеры
     <p align="left">
       <img src="assets/icons/postgresql.svg" width=35px style="padding-right:5px;" draggable="false" title="PostgreSQL">
       <img src="assets/icons/docker-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Docker">
@@ -171,16 +177,17 @@
 
 
 * ### Другое
-    CI/CD через GitHub Action, оси, автоматизация
+    CI/CD, DevOps
     <p align="left">
       <img src="assets/icons/jenkins.svg" width=35px style="padding-right:5px;" draggable="false" title="Jenkins">
+       <img src="assets/icons/virtualbox.svg" width=35px style="padding-right:5px;" draggable="false" title="VirtualBox">
       <img src="assets/icons/vagrant.svg" width=35px style="padding-right:5px;" draggable="false" title="Vagrant">
       <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
-      <img src="assets/icons/bash.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
+      <img src="assets/icons/bash.svg" width=35px style="padding-right:5px;" draggable="false" title="Bash">
       <img src="assets/icons/git-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Git">
       <img src="assets/icons/mercurial.svg" width=35px style="padding-right:5px;" draggable="false" title="Mercurial">
       <img src="assets/icons/github-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="GitHub">
-      <img src="assets/icons/gitlab.svg" width=35px style="padding-right:5px;" draggable="false" title="Gitlab">
+      <img src="assets/icons/gitlab.svg" width=35px style="padding-right:5px;" draggable="false" title="GitLab">
     </p>
 
 
