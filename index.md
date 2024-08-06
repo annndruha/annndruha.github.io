@@ -35,10 +35,10 @@
 # <a id="education" href="#education">🎓 Education</a>
 
 * ### Lomonosov Moscow State University
-    (2018-2022, Moscow) Faculty of Physics, department of particles physics
+    (2018-2022, Moscow, Bachelor's degree in "Physics", Faculty of Physics, Department of particles physics
 
 * ### Moscow Institute of Physics and Technology
-    (2022-2024, Moscow) Applied Mathematics and Computer Science, Department of Technologies of Digital Transformation
+    (2022-2024, Dolgoprudny) Master's degree in Applied Mathematics and Computer Science, Department of Technologies of Digital Transformation
 
 # <a id="skills" href="#skills">🛠️ Skills</a>
 
@@ -139,10 +139,10 @@
 # <a id="education_ru" href="#education_ru">🎓 Образование</a>
 
 * ### (МГУ) Московский государственный университет имени М.В.Ломоносова
-    (2018-2022, Москва) Физический факультет, отделение ядерной физики
+    (2018-2022, Москва) Бакалавриат, Физический факультет, отделение ядерной физики
 
 * ### (МФТИ) Московский физико-технический институт
-    (2022-2024, Москва) Физтех-школа прикладной математики и информатики
+    (2022-2024, Долгопрудный) Магистратура, Физтех-школа прикладной математики и информатики
 
 # <a id="skills_ru" href="#skills_ru">🛠️ Навыки</a>
 
