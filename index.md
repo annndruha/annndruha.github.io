@@ -87,7 +87,7 @@
 * **[EPC-MSU/epdetection](https://github.com/EPC-MSU/epdetection)** - Module to detect PCB components by neural network
 * **[GitHub Issue Telegram Bot](https://github.com/annndruha/issue-github-telegram-bot)** - Bot for creation GitHub issue straight from Telegram group chat
 * **[PulchraBookmarks](https://chrome.google.com/webstore/detail/pulchra-bookmarks/pknkgclggganidoalifaagfjikhcdolb)** - Chrome extension for newtab
-* **[Monitoring API](https://github.com/SmartThinksDIY/DHT11-api)** - API Server for collect data from measurements devices
+* **[SecurePhotos](https://github.com/annndruha/SecurePhotos)** - Photo gallery with encryption
 
 # <a id="contacts" href="#contacts">📧 Contacts</a>
 * Telegram: [@annndruha](https://t.me/annndruha)
@@ -185,12 +185,13 @@
 
 
 # <a id="projects_ru" href="#projects_ru">🧩 Публичные проекты </a>
+Публичных проектов не много, т.к. в основном коммичусь в приватные гитлабы.
 * **[Neural networks course](https://github.com/EPC-MSU/EduNet-lectures)** - Курс для аспирантов и магистров МГУ
 * **[Faculty application](https://github.com/profcomff)** - Приложение для студентов физического факультета МГУ
 * **[EPC-MSU/epdetection](https://github.com/EPC-MSU/epdetection)** - Модуль распознавания компонентов на печатной плате
 * **[Github Issue Telegram Bot](https://github.com/annndruha/issue-github-telegram-bot)** - Бот для создания issue в GitHub из чата в Telegram
 * **[PulchraBookmarks](https://chrome.google.com/webstore/detail/pulchra-bookmarks/pknkgclggganidoalifaagfjikhcdolb)** - Расширение-закладки для Chrome
-* **[Monitoring API](https://github.com/SmartThinksDIY/DHT11-api)** - API-сервер для сбора данных с датчиков температуры
+* **[SecurePhotos](https://github.com/annndruha/SecurePhotos)** - Галерея для фото с шифрованием
 
 # <a id="contacts_ru" href="#contacts_ru">📧 Контакты</a>
 * Телеграм: [@annndruha](https://t.me/annndruha)
