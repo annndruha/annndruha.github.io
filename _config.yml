@@ -1,5 +1,5 @@
 favicon: /assets/images/favicon.svg
-logo: /assets/images/photo.png
+photo: /assets/images/photo.png
 
 show_info: true
 show_contacts: true
