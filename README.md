@@ -13,7 +13,7 @@ This is **multi-language** resume. For only one language use [old version](https
 * Change left side with your information in [_config.yml](./_config.yml) for both languages.
   * `show_branding` flag for show or disable branding-header.
 * Change [index.md](./index.md) with you information for both languages.
-  > Be careful and don't delete languages separators. You may use files from templates folder. Just replace `index.md` with one of templates.
+  > Be careful and don't delete languages separators like `<section id="second_content">`
 * Change photo `/assets/images/photo.png` (recomended size: 640px x 640px)
 * Change pdf's links to your repository.
 * Wait a minute for GitHub-actions auto build and enjoy your site on `<you_github_nickname>.github.io` 😋!
