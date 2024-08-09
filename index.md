@@ -43,10 +43,9 @@
 # <a id="skills_ru" href="#skills_ru">🛠️ Навыки</a>
 
 * ### Основные навыки
-    Python, CV/ML/DL, аналитика, бэкенд
+    Python, PyTorch, TensorFlow, NumPy, Matplotlib, Pandas, OpenCV, FastAPI, Docker, Jupyter Notebook — Разработка нейросетевых решений, бэкенда, анализ данных.
     <p align="left">
       <img src="assets/icons/python.svg" width=35px style="padding-right:5px;" draggable="false" title="Python">
-      <img src="assets/icons/jupyter.svg" width=25px style="padding-right:5px;" draggable="false" title="Jupyter Notebook">
       <img src="assets/icons/pytorch.svg" width=35px style="padding-right:5px;" draggable="false" title="PyTorch">
       <img src="assets/icons/tensorflow.svg" width=35px style="padding-right:5px;" draggable="false" title="TensorFlow">
       <img src="assets/icons/numpy-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="NumPy">
@@ -54,36 +53,39 @@
       <img src="assets/icons/pandas-icon.svg" width=30px style="padding-right:5px;" draggable="false" title="Pandas">
       <img src="assets/icons/opencv.svg" width=30px style="padding-right:5px;" draggable="false" title="OpenCV">
       <img src="assets/icons/fastapi.svg" width=35px style="padding-right:5px;" draggable="false" title="FastAPI">
+      <img src="assets/icons/docker-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Docker">
+      <img src="assets/icons/jupyter.svg" width=25px style="padding-right:5px;" draggable="false" title="Jupyter Notebook">
     </p>
 
 * ### Дополнительные навыки
-    SQL, GrpahQL, Qt, сайты, микроконтроллеры
+    PostgreSQL, C++, Javascript, Qt, HTML, CSS, jQuery, Boootstrap, GraphQL, Arduino — Разработка сайтов, графических интерфейсов нативных приложений, прошивки микроконтроллеров.
     <p align="left">
       <img src="assets/icons/postgresql.svg" width=35px style="padding-right:5px;" draggable="false" title="PostgreSQL">
-      <img src="assets/icons/docker-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Docker">
       <img src="assets/icons/c-plusplus.svg" width=35px style="padding-right:5px;" draggable="false" title="C++">
       <img src="assets/icons/javascript.svg" width=35px style="padding-right:5px;" draggable="false" title="Javascript">    
       <img src="assets/icons/qt.svg" width=35px style="padding-right:5px;" draggable="false" title="Qt">
       <img src="assets/icons/html-5.svg" width=35px style="padding-right:5px;" draggable="false" title="HTML">
-      <img src="assets/icons/css-3.svg" width=35px style="padding-right:5px;" draggable="false" title="CSS">
+      <img src="assets/icons/css-3.svg" width=35px style="padding-right:5p" draggable="false" title="CSS">
+      <img src="assets/icons/jquery.svg" width=35px style="padding-right:5px; padding-bottom:10px;" draggable="false" title="jQuery">
       <img src="assets/icons/bootstrap.svg" width=35px style="padding-right:5px;" draggable="false" title="Boootstrap">
-      <img src="assets/icons/graphql.svg" width=35px style="padding-right:5px;" draggable="false" title="GraphQL">
       <img src="assets/icons/arduino.svg" width=40px style="padding-right:5px;" draggable="false" title="Arduino">
   </p>
 
 
 * ### Другое
-    CI/CD, DevOps
+    Linux, Jenkins, VirtualBox, Vagrant, Git, Mercurial, GitHub, GitLab, GraphQL, Groovy — CI/CD, DevOps, разработка различных автоматизациий, пайплайнов, развёртывания.
     <p align="left">
+      <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
       <img src="assets/icons/jenkins.svg" width=35px style="padding-right:5px;" draggable="false" title="Jenkins">
        <img src="assets/icons/virtualbox.svg" width=35px style="padding-right:5px;" draggable="false" title="VirtualBox">
       <img src="assets/icons/vagrant.svg" width=35px style="padding-right:5px;" draggable="false" title="Vagrant">
-      <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
       <img src="assets/icons/bash.svg" width=35px style="padding-right:5px;" draggable="false" title="Bash">
       <img src="assets/icons/git-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Git">
       <img src="assets/icons/mercurial.svg" width=35px style="padding-right:5px;" draggable="false" title="Mercurial">
       <img src="assets/icons/github-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="GitHub">
       <img src="assets/icons/gitlab.svg" width=35px style="padding-right:5px;" draggable="false" title="GitLab">
+      <img src="assets/icons/graphql.svg" width=35px style="padding-right:5px;" draggable="false" title="GraphQL">
+      <img src="assets/icons/groovy.svg" width=35px style="padding-right:5px; padding-bottom:10px;" draggable="false" title="Groovy">
     </p>
 
 
@@ -147,11 +149,10 @@
 
 # <a id="skills" href="#skills">🛠️ Skills</a>
 
-* ### Primary stack: 
-    Python, CV/ML/DL, Analytics, Backend
+* ### Primary stack
+    Python, PyTorch, TensorFlow, NumPy, Matplotlib, Pandas, OpenCV, FastAPI, Docker, Jupyter Notebook — Deep learning solutions, backend, data analysis.
     <p align="left">
       <img src="assets/icons/python.svg" width=35px style="padding-right:5px;" draggable="false" title="Python">
-      <img src="assets/icons/jupyter.svg" width=25px style="padding-right:5px;" draggable="false" title="Jupyter Notebook">
       <img src="assets/icons/pytorch.svg" width=35px style="padding-right:5px;" draggable="false" title="PyTorch">
       <img src="assets/icons/tensorflow.svg" width=35px style="padding-right:5px;" draggable="false" title="TensorFlow">
       <img src="assets/icons/numpy-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="NumPy">
@@ -159,36 +160,39 @@
       <img src="assets/icons/pandas-icon.svg" width=30px style="padding-right:5px;" draggable="false" title="Pandas">
       <img src="assets/icons/opencv.svg" width=30px style="padding-right:5px;" draggable="false" title="OpenCV">
       <img src="assets/icons/fastapi.svg" width=35px style="padding-right:5px;" draggable="false" title="FastAPI">
+      <img src="assets/icons/docker-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Docker">
+      <img src="assets/icons/jupyter.svg" width=25px style="padding-right:5px;" draggable="false" title="Jupyter Notebook">
     </p>
 
 * ### Secondary stack
-    SQL, Deploy, Front, UI, embedded
+    PostgreSQL, C++, Javascript, Qt, HTML, CSS, jQuery, Boootstrap, GraphQL, Arduino — Sites, GUI, microcontrollers firmware.
     <p align="left">
       <img src="assets/icons/postgresql.svg" width=35px style="padding-right:5px;" draggable="false" title="PostgreSQL">
-      <img src="assets/icons/docker-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Docker">
       <img src="assets/icons/c-plusplus.svg" width=35px style="padding-right:5px;" draggable="false" title="C++">
       <img src="assets/icons/javascript.svg" width=35px style="padding-right:5px;" draggable="false" title="Javascript">    
       <img src="assets/icons/qt.svg" width=35px style="padding-right:5px;" draggable="false" title="Qt">
       <img src="assets/icons/html-5.svg" width=35px style="padding-right:5px;" draggable="false" title="HTML">
-      <img src="assets/icons/css-3.svg" width=35px style="padding-right:5px;" draggable="false" title="CSS">
+      <img src="assets/icons/css-3.svg" width=35px style="padding-right:5p" draggable="false" title="CSS">
+      <img src="assets/icons/jquery.svg" width=35px style="padding-right:5px; padding-bottom:10px;" draggable="false" title="jQuery">
       <img src="assets/icons/bootstrap.svg" width=35px style="padding-right:5px;" draggable="false" title="Boootstrap">
-      <img src="assets/icons/graphql.svg" width=35px style="padding-right:5px;" draggable="false" title="GraphQL">
       <img src="assets/icons/arduino.svg" width=40px style="padding-right:5px;" draggable="false" title="Arduino">
   </p>
 
 
 * ### Other
-    CI/CD, DevOps, Services, Scripting
+    Linux, Jenkins, VirtualBox, Vagrant, Git, Mercurial, GitHub, GitLab, GraphQL, Groovy — CI/CD, DevOps, automatization, pipelines.
     <p align="left">
+      <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
       <img src="assets/icons/jenkins.svg" width=35px style="padding-right:5px;" draggable="false" title="Jenkins">
        <img src="assets/icons/virtualbox.svg" width=35px style="padding-right:5px;" draggable="false" title="VirtualBox">
       <img src="assets/icons/vagrant.svg" width=35px style="padding-right:5px;" draggable="false" title="Vagrant">
-      <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;" draggable="false" title="Linux">
       <img src="assets/icons/bash.svg" width=35px style="padding-right:5px;" draggable="false" title="Bash">
       <img src="assets/icons/git-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="Git">
       <img src="assets/icons/mercurial.svg" width=35px style="padding-right:5px;" draggable="false" title="Mercurial">
       <img src="assets/icons/github-icon.svg" width=35px style="padding-right:5px;" draggable="false" title="GitHub">
       <img src="assets/icons/gitlab.svg" width=35px style="padding-right:5px;" draggable="false" title="GitLab">
+      <img src="assets/icons/graphql.svg" width=35px style="padding-right:5px;" draggable="false" title="GraphQL">
+      <img src="assets/icons/groovy.svg" width=35px style="padding-right:5px; padding-bottom:10px;" draggable="false" title="Groovy">
     </p>
 
 
