@@ -17,7 +17,7 @@ location: Москва, Россия
 language: Русский, Английский
 bt_mailto: <a href="mailto:annndruha.github@gmail.com">Написать на <strong>Почту</strong></a>
 bt_github: <a href="https://github.com/annndruha">Профиль <strong>GitHub</strong></a>
-bt_pdf: <a href="https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/assets/pdf/marakulin_ru.pdf">Скачать резюме<strong>PDF</strong></a>
+bt_pdf: <a href="https://raw.githubusercontent.com/annndruha/annndruha.github.io/main/assets/pdf/marakulin_ru.pdf">Скачать резюме<strong>PDF</strong></a>
 
 second_language_code: en
 second_fullname: Andrey Marakulin
@@ -26,7 +26,7 @@ second_location: Moscow, Russia
 second_language: Russian, English
 second_bt_mailto: <a href="mailto:annndruha.github@gmail.com">Send me <strong>Mail</strong></a>
 second_bt_github: <a href="https://github.com/annndruha">Profile <strong>GitHub</strong></a>
-second_bt_pdf: <a href="https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/assets/pdf/marakulin_en.pdf">Download <strong>CV PDF</strong></a>
+second_bt_pdf: <a href="https://raw.githubusercontent.com/annndruha/annndruha.github.io/main/assets/pdf/marakulin_en.pdf">Download <strong>CV PDF</strong></a>
 
 remote_theme: annndruha/minimal-resume@v2.2.0
 plugins:
