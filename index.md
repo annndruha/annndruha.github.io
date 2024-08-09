@@ -3,12 +3,6 @@
 
 # <a id="works_ru" href="#works_ru">👨🏻‍💻 Опыт работы</a>
 
-* ### Преподаватель курса по нейронным сетям
-
-    *2020-2022 МГУ имени М.В.Ломоносова*
-
-    Преподавал годовой курс по нейронным сетям аспирантам и магистрам МГУ. [Курс](https://msu.ai) охватывал широкий спектр типов нейронных сетей и методов их обучения, а так же обширную практику. Выступал научным консультантом при написании аспирантами и магистрами статей с использованием нейронных сетей.
-
 * ### Python-разработчик, инженер DL, DevOps
 
     *2020-2024 [Лаборатория инженерной физики МГУ](https://engineering.phys.msu.ru/ru/)*
@@ -25,6 +19,12 @@
     *2023 Московский физико-технический институт*
   
     Работал в [лаборатории](https://mipt.ru/education/schools/rse) занимающейся анализом эхолокационных изображений. Разрабатывал систему автоматизации для помощи оператору эхолокатора. Система распознавания объектов помогала оператору быстрее и точнее видеть объекты на снимках.
+
+* ### Преподаватель курса по нейронным сетям
+
+    *2020-2022 МГУ имени М.В.Ломоносова*
+
+    Преподавал годовой курс по нейронным сетям аспирантам и магистрам МГУ. [Курс](https://msu.ai) охватывал широкий спектр типов нейронных сетей и методов их обучения, а так же обширную практику. Выступал научным консультантом при написании аспирантами и магистрами статей с использованием нейронных сетей.
 
 * ### Один из основателей факультетского приложения
 
@@ -108,12 +108,6 @@
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
 
-* ### Teacher of neural networks courses
-
-    *2020-2022 Lomonosov Moscow State University*
-
-    I teach a one-year Neural Networks course for postgraduate MSU students. [The course](https://msu.ai) covers a wide range of neural networks types, deals with solving various problems. In the second part of the course, students did implement neural networks in their scientific work under my guidance
-
 * ### Deep Learning Engineer, Python developer
 
     *2020-2024 [Center of Engineering Physics](https://engineering.phys.msu.ru/ru/) at Lomonosov Moscow State University*
@@ -130,6 +124,12 @@
     *2023 Moscow Institute of Physics and Technology*
 
     For a short time I worked in a [laboratory](https://mipt.ru/education/schools/rse) engaged in the analysis of echolocation images. My main task was to process data and apply object detection models such as YOLO.
+
+* ### Teacher of neural networks courses
+
+    *2020-2022 Lomonosov Moscow State University*
+
+    I teach a one-year Neural Networks course for postgraduate MSU students. [The course](https://msu.ai) covers a wide range of neural networks types, deals with solving various problems. In the second part of the course, students did implement neural networks in their scientific work under my guidance
 
 * ### Ideological mastermind of the faculty application
 
