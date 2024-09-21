@@ -142,7 +142,7 @@
 # <a id="education" href="#education">🎓 Education</a>
 
 * ### Lomonosov Moscow State University
-    (2018-2022, Moscow, Bachelor's degree in "Physics", Faculty of Physics, Department of particles physics
+    (2018-2022, Moscow) Bachelor's degree in "Physics", Faculty of Physics, Department of particles physics
 
 * ### Moscow Institute of Physics and Technology
     (2022-2024, Dolgoprudny) Master's degree in Applied Mathematics and Computer Science, Department of Technologies of Digital Transformation
