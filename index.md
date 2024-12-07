@@ -3,6 +3,12 @@
 
 # <a id="works_ru" href="#works_ru">👨🏻‍💻 Опыт работы</a>
 
+* ### TeamLead CV, Заместитель руководителя отдела машинного обучения
+
+    *2024-н.в. [ООО «Лаборатория Наносемантика»]([https://nanosemantics.ai/)*
+
+    Руковожу командой разработчиков компьютерного зрения.
+
 * ### Python-разработчик, инженер DL, DevOps
 
     *2020-2024 [Лаборатория инженерной физики МГУ](https://engineering.phys.msu.ru/ru/)*
@@ -110,6 +116,12 @@
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
 
+* ### TeamLead CV, Deputy Head of Machine Learning Department
+
+    *2024-н.в. [ООО «Лаборатория Наносемантика»]([https://nanosemantics.ai/)*
+
+    I lead a team of computer vision developers.
+  
 * ### Deep Learning Engineer, Python developer
 
     *2020-2024 [Center of Engineering Physics](https://engineering.phys.msu.ru/ru/) at Lomonosov Moscow State University*
