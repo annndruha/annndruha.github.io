@@ -5,7 +5,7 @@
 
 * ### TeamLead CV, Заместитель руководителя отдела машинного обучения
 
-    *2024-н.в. [ООО «Лаборатория Наносемантика»]([https://nanosemantics.ai/)*
+    *2024-н.в. [ООО «Лаборатория Наносемантика»](https://nanosemantics.ai/)*
 
     Руковожу командой разработчиков компьютерного зрения.
 
@@ -118,7 +118,7 @@
 
 * ### TeamLead CV, Deputy Head of Machine Learning Department
 
-    *2024-н.в. [ООО «Лаборатория Наносемантика»]([https://nanosemantics.ai/)*
+    *2024-н.в. [ООО «Лаборатория Наносемантика»](https://nanosemantics.ai/)*
 
     I lead a team of computer vision developers.
   
