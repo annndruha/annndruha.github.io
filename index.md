@@ -3,7 +3,7 @@
 
 # <a id="works_ru" href="#works_ru">👨🏻‍💻 Опыт работы</a>
 
-* ### TeamLead CV, Заместитель руководителя отдела машинного обучения
+* ### TeamLead CV | Заместитель руководителя отдела машинного обучения
 
     *2024-н.в. [ООО «Лаборатория Наносемантика»](https://nanosemantics.ai/)*
 
@@ -46,9 +46,9 @@
 * ### (МФТИ) Московский физико-технический институт
     (2022-2024, Долгопрудный) Магистратура, Физтех-школа прикладной математики и информатики
 
-# <a id="skills_ru" href="#skills_ru">🛠️ Навыки</a>
+# <a id="skills_ru" href="#skills_ru">🛠️ Hard skills</a>
 
-* ### Основные навыки
+* ### Основной стек
     Python, PyTorch, TensorFlow, NumPy, Matplotlib, Pandas, OpenCV, FastAPI, Docker, Jupyter Notebook — Разработка нейросетевых решений, бэкенда, анализ данных.
     <p align="left">
       <img src="assets/icons/python.svg" width=35px style="padding-right:5px;" draggable="false" title="Python">
@@ -63,7 +63,7 @@
       <img src="assets/icons/jupyter.svg" width=25px style="padding-right:5px;" draggable="false" title="Jupyter Notebook">
     </p>
 
-* ### Дополнительные навыки
+* ### Дополнительный стек
     PostgreSQL, C++, Javascript, Qt, HTML, CSS, jQuery, Boootstrap, GraphQL, Arduino — Разработка сайтов, графических интерфейсов нативных приложений, прошивки микроконтроллеров.
     <p align="left">
       <img src="assets/icons/postgresql.svg" width=35px style="padding-right:5px;" draggable="false" title="PostgreSQL">
@@ -116,11 +116,11 @@
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
 
-* ### TeamLead CV, Deputy Head of Machine Learning Department
+* ### TeamLead CV | Deputy Head of Machine Learning Department
 
     *2024-present [Nanosemantics Lab](https://nanosemantics.ai/)*
 
-    I lead a team of computer vision developers.
+    I'm a team lead of computer vision developers.
   
 * ### Deep Learning Engineer, Python developer
 
@@ -159,7 +159,7 @@
 * ### Moscow Institute of Physics and Technology
     (2022-2024, Dolgoprudny) Master's degree in Applied Mathematics and Computer Science, Department of Technologies of Digital Transformation
 
-# <a id="skills" href="#skills">🛠️ Skills</a>
+# <a id="skills" href="#skills">🛠️ Hard skills</a>
 
 * ### Primary stack
     Python, PyTorch, TensorFlow, NumPy, Matplotlib, Pandas, OpenCV, FastAPI, Docker, Jupyter Notebook — Deep learning solutions, backend, data analysis.
