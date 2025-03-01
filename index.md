@@ -22,7 +22,7 @@
 
 * ### Deep Learning инженер
 
-    *2023 Московский физико-технический институт*
+    *2023-2024 Московский физико-технический институт*
   
     Работал в [лаборатории](https://mipt.ru/education/schools/rse) занимающейся анализом эхолокационных изображений. Разрабатывал систему автоматизации для помощи оператору эхолокатора. Система распознавания объектов помогала оператору быстрее и точнее видеть объекты на снимках.
 
@@ -135,7 +135,7 @@
   
 * ### DL-engineer
 
-    *2023 Moscow Institute of Physics and Technology*
+    *2023-2024 Moscow Institute of Physics and Technology*
 
     For a short time I worked in a [laboratory](https://mipt.ru/education/schools/rse) engaged in the analysis of echolocation images. My main task was to process data and apply object detection models such as YOLO.
 
