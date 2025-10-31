@@ -16,7 +16,7 @@
     Разрабатывал нейросетевое ПО для автоматической системы сигнатурного анализа компонентов на печатных платах (PyTorch, Qt). Разворачивал кластер виртуальных машин для внутренних пайплайнов сборки и тестирования (Jenkins) - аналог GitHub Actions.
 
 * ### Data Scientist и backend-разработчик
-    *2023-2024 [Business process audit](https://bp-audit.tech/)*
+    *2023-2024 [Business process audit](https://www.bpa.tech/)*
 
     Разрабатывал прикладное нейросетевое решение для задач мониторинга офисных помещений по камерам видеонаблюдения. Осуществлял полный цикл разработки (за исключением frontend): от сбора и разметки данных до развёртывания real-time бэкэнда обученной модели.
 
@@ -129,7 +129,7 @@
     Working on “EyePoint P10” - a signature analysis system. EyePoint P10 aims to detect faulty electronic components on printed circuit boards. Deployed a cluster of virtual machines for internal build and testing pipelines (Jenkins) - an analogue of GitHub Actions.
   
 * ### Data Scientist and backend-developer
-    *2023-2024 [Business process audit](https://bp-audit.tech/)*
+    *2023-2024 [Business process audit](https://www.bpa.tech/)*
 
     Developed an applied neural network solution for monitoring office premises using CCTV cameras. Carried out the full development cycle (except for the frontend): from collecting and annotate data to deploying the real-time backend of the trained model.
   
