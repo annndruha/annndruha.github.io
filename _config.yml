@@ -4,7 +4,7 @@ photo: /assets/images/photo.png
 show_info: true
 show_contacts: true
 
-# If show_branding is false there are only main language will shown
+# If show_branding is false there are only main language will show
 show_branding: true
 branding_link: https://annndruha.space
 branding_link_text: annndruha.space
@@ -12,7 +12,7 @@ branding_favicon: https://annndruha.space/icons/favicon.svg
 
 main_language_code: ru
 fullname: Андрей Маракулин
-age: 25 лет
+age: 26 лет
 location: Москва, Россия
 language: Русский, Английский
 bt_mailto: <a href="mailto:annndruha.github@gmail.com">Написать на <strong>Почту</strong></a>
@@ -21,7 +21,7 @@ bt_pdf: <a href="https://raw.githubusercontent.com/annndruha/annndruha.github.io
 
 second_language_code: en
 second_fullname: Andrey Marakulin
-second_age: 25 y.o.
+second_age: 26 y.o.
 second_location: Moscow, Russia
 second_language: Russian, English
 second_bt_mailto: <a href="mailto:annndruha.github@gmail.com">Send me <strong>Mail</strong></a>
