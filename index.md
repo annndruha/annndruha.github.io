@@ -3,14 +3,15 @@
 
 # <a id="works_ru" href="#works_ru">👨🏻‍💻 Опыт работы</a>
 
-* ### TeamLead CV | Заместитель руководителя отдела машинного обучения
+* ### TeamLead CV / Руководитель команды разработки
 
-    *2024-н.в. [ООО «Лаборатория Наносемантика»](https://nanosemantics.ai/)*
+    *2024-2026 [ООО «Лаборатория Наносемантика»](https://nanosemantics.ai/)*
 
-    * Руковожу командой из пяти Data Science разработчиков и инженеров
-    * Завершил и вывел в прод два крупных проекта (NDA)
+    * TeamLead отдела DataScience. Руководил командой из пяти Data Science и нескольких бэкенд разработчиков и инженеров
+    * Завершил и вывел в прод 6 крупных проектов (NDA), включающих такие области как Object detection, OCR, RAG.
     * Обучил команду лучшим практикам разработки, вводил регламенты и стандарты, которые повысили качество кода и снизили нагрузку на другие отделы
-    * Построил более прозрачную и понятную систему рабочих взаимодействий технических специалистов
+    * Выстроил более прозрачную и понятную систему рабочих взаимодействий технических специалистов
+    * Computer Vision, PyTorch,  NLP, RAG, FastAPI
 
 #### ⠀
 
@@ -141,9 +142,13 @@
 
 * ### TeamLead CV | Deputy Head of Machine Learning Department
 
-    *2024-present [Nanosemantics Lab](https://nanosemantics.ai/)*
+    *2024-2026 [Nanosemantics Lab](https://nanosemantics.ai/)*
 
-    I'm a team lead of computer vision developers.
+    * Team Lead of the Data Science department. Managed a team of five Data Scientists and several backend developers and engineers
+    * Completed and brought to production 6 major projects (NDA) spanning areas such as Object Detection, OCR, and RAG
+    * Trained the team in development best practices; introduced regulations and standards that improved code quality and reduced the workload on other departments
+    * Established a more transparent and clearer system of work interactions among technical specialists
+    * Computer Vision, PyTorch, NLP, RAG, FastAPI
   
 * ### Deep Learning Engineer, Python developer
 
